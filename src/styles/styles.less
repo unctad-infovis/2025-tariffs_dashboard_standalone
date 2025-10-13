@@ -75,7 +75,7 @@
   .visualizations_container {
     background-color: #f2f8fc;
     box-sizing: border-box;
-    padding: 50px 20px 20px 20px;
+    padding: 50px 20px 0 20px;
     .content {
       margin: auto auto;
       max-width: 1620px;
@@ -247,6 +247,7 @@
           height: 100%;
           .map_container {
             height: 100%;
+            position: relative;
             // transform: translateX(-200px);
             // transition: transform 0.3s ease;
             width: calc(100% - 400px);
@@ -257,11 +258,11 @@
           box-shadow: -2px 0 8px rgba(0, 0, 0, 0.1);
           display: flex;
           flex-direction: column;
-          height: 100%;
+          height: calc(100% - 40px);
           max-width: 400px;
           position: absolute;
           right: 0;
-          top: 0;
+          top: 5px;
           transition: transform 0.3s ease, width 0.3s ease;
           width: calc(100% - 20px);
           z-index: 10;
@@ -333,9 +334,13 @@
         }
       }
       .caption_tooltip {
-        margin: -50px auto auto auto;
-        position: relative;
+        bottom: 20px;
+        display: block;
+        margin: auto auto 0 auto;
+        position: absolute;
         text-align: center;
+        width: 200px;
+        left: calc(50% - 100px);
         z-index: 4000;
         button {
           background-color: #fff;
@@ -365,7 +370,7 @@
     max-width: 300px;
     z-index: 2000;
     a {
-      color: #fff;
+      color: #000;
       pointer-events: auto;
     }
     &.my_tooltip_map {

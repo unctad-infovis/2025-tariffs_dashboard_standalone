@@ -193,7 +193,7 @@ function ChartMap({
       },
       chart: {
         backgroundColor: 'transparent',
-        height: Math.max((document.getElementById('map_container').offsetWidth * 6) / 16, 540),
+        height: 580,
         type: 'map'
       },
       credits: {
@@ -220,7 +220,15 @@ function ChartMap({
           verticalAlign: 'bottom'
         },
         enableButtons: true,
-        enabled: false
+        enabled: false,
+        buttons: {
+          zoomIn: {
+            y: -50
+          },
+          zoomOut: {
+            y: -22
+          }
+        }
       },
       plotOptions: {
         mapline: {
