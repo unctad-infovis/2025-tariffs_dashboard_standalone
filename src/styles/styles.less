@@ -225,7 +225,6 @@
         }
       }
       .visualization_container {
-        margin-bottom: 50px;
         overflow: hidden;
         position: relative;
         p {
@@ -334,12 +333,15 @@
         }
       }
       .caption_tooltip {
-        margin: auto auto;
+        margin: -50px auto auto auto;
+        position: relative;
         text-align: center;
+        z-index: 4000;
         button {
           background-color: #fff;
           border-radius: 20px;
           border: 0;
+          cursor: pointer;
           font-style: italic;
           font-weight: 100;
           padding: 7px 15px;
