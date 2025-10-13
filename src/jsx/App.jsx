@@ -320,7 +320,7 @@ function App() {
         content="The trade-weighted average tariff rate applied to each economy is based on the composition of exports to the US in 2024."
       />
       <Tooltip
-        className="my_tooltip"
+        className="my_tooltip my_tooltip_map"
         id="my-tooltip-2"
         place="top"
       >

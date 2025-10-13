@@ -75,7 +75,7 @@
   .visualizations_container {
     background-color: #f2f8fc;
     box-sizing: border-box;
-    padding: 50px 20px;
+    padding: 50px 20px 20px 20px;
     .content {
       margin: auto auto;
       max-width: 1620px;
@@ -291,8 +291,8 @@
           .swarm_tooltip {
             background-color: #ffffff;
             border-radius: 3px;
-            border: 1px solid rgba(0, 73, 135, 0.2);
-            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+            border: 1px solid rgba(0, 73, 135, 0.4);
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
             color: #000;
             font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
             font-size: 13px;
@@ -357,11 +357,17 @@
     }
   }
   .my_tooltip {
+    background-color: #fff;
+    color: #000;
+    font-weight: 300;
     max-width: 300px;
     z-index: 2000;
     a {
       color: #fff;
       pointer-events: auto;
+    }
+    &.my_tooltip_map {
+      max-width: 1200px;
     }
   }
 }

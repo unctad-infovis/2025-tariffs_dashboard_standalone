@@ -57,7 +57,7 @@ function ChartSwarm({
 
   const yScale = useMemo(
     () => scaleLinear()
-      .domain([0, 54])
+      .domain([-2, 54])
       .range([containerSize.height - 10, 20])
       .clamp(true),
     [containerSize.height]
