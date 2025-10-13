@@ -12,7 +12,7 @@ import Axis from '../helpers/swarm/Axis.jsx';
 import Tooltip from '../helpers/swarm/Tooltip.jsx';
 
 function ChartSwarm({
-  category, country = null, setCountry, swarm_collapsed, type, values
+  category, hover_country = null, country = null, setHoverCountry, setCountry, swarm_collapsed, type, values
 }) {
   const chartSwarmRef = useRef(null);
 
@@ -34,6 +34,26 @@ function ChartSwarm({
     window.addEventListener('resize', updateSize);
     return () => window.removeEventListener('resize', updateSize);
   }, [swarm_collapsed]);
+
+  useEffect(() => {
+    if (!hover_country || !nodes.length) {
+      tooltipRef.current?.hide();
+    } else {
+      const circle = nodes.find(p => p.Country === hover_country.label);
+      if (!circle) return;
+
+      const svg = chartSwarmRef.current.querySelector('svg');
+      if (!svg) return;
+
+      const rect = svg.getBoundingClientRect();
+      const eventLike = {
+        clientX: rect.left + circle.x,
+        clientY: rect.top + circle.y,
+      };
+
+      tooltipRef.current?.show(eventLike, circle, type, category);
+    }
+  }, [hover_country, nodes, type, category]);
 
   const yScale = useMemo(
     () => scaleLinear()
@@ -120,9 +140,11 @@ function ChartSwarm({
                 setCountry(prev => (prev?.value === labelen ? null : { value: labelen, label: labelen }));
               }}
               onMouseEnter={(e) => {
+                setHoverCountry({ value: circle.ISO3, label: circle.Country });
                 tooltipRef.current?.show(e, circle, type, category);
               }}
               onMouseLeave={() => {
+                setHoverCountry(null);
                 tooltipRef.current?.hide();
               }}
               stroke={circle.strokeColor}
@@ -146,7 +168,12 @@ ChartSwarm.propTypes = {
     PropTypes.shape({ value: PropTypes.string.isRequired, label: PropTypes.string.isRequired }),
     PropTypes.oneOf([null]),
   ]),
+  hover_country: PropTypes.oneOfType([
+    PropTypes.shape({ value: PropTypes.string.isRequired, label: PropTypes.string.isRequired }),
+    PropTypes.oneOf([null]),
+  ]),
   setCountry: PropTypes.func.isRequired,
+  setHoverCountry: PropTypes.func.isRequired,
   swarm_collapsed: PropTypes.string.isRequired,
   type: PropTypes.string.isRequired,
   values: PropTypes.arrayOf(PropTypes.oneOfType([PropTypes.object, PropTypes.array])).isRequired,

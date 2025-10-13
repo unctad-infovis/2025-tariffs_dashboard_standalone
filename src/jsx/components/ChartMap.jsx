@@ -22,7 +22,7 @@ import getColor from '../helpers/map/GetColor.js';
 // import { v4 as uuidv4 } from 'uuid';
 
 function ChartMap({
-  category, country = null, setCountry, swarm_collapsed, type, values
+  category, hover_country = null, country = null, setCountry, setHoverCountry, swarm_collapsed, type, values
 }) {
   const chartMapRef = useRef(null);
 
@@ -78,6 +78,21 @@ function ChartMap({
       chartMapRef.current.redraw();
     }
   }, [category, country, type, values]);
+
+  useEffect(() => {
+    if (chartMapRef.current?.renderTo) {
+      if (hover_country !== null) {
+        const point = chartMapRef.current.series[6].data.filter(p => p.name === hover_country.label);
+        if (point.length > 0) {
+          chartMapRef.current.tooltip.refresh(point);
+        } else {
+          chartMapRef.current.tooltip.hide(50);
+        }
+      } else {
+        chartMapRef.current.tooltip.hide(50);
+      }
+    }
+  }, [category, hover_country, type, values]);
 
   const generateBubbleData = useCallback((data, coordinatesMap) => Object.entries(coordinatesMap).map(([code, coords]) => {
     const match = data.find(row => row.code === code);
@@ -337,6 +352,17 @@ function ChartMap({
               }
             }
           },
+          point: {
+            events: {
+              mouseOver() {
+                const hovered = this;
+                setHoverCountry({ label: hovered.name, value: hovered.name });
+              },
+              mouseOut: () => {
+                setHoverCountry(null);
+              }
+            }
+          },
           type: 'mapbubble',
           visible: true,
           zMax: maxValue,
@@ -368,7 +394,7 @@ function ChartMap({
         chartMapRef.current = null;
       }
     };
-  }, [chartMapRef]);
+  }, [chartMapRef, setHoverCountry]);
 
   useEffect(() => {
     const [topology, data] = values;
@@ -419,7 +445,15 @@ ChartMap.propTypes = {
     }),
     PropTypes.oneOf([null])
   ]),
+  hover_country: PropTypes.oneOfType([
+    PropTypes.shape({
+      value: PropTypes.string.isRequired,
+      label: PropTypes.string.isRequired
+    }),
+    PropTypes.oneOf([null])
+  ]),
   setCountry: PropTypes.func.isRequired,
+  setHoverCountry: PropTypes.func.isRequired,
   swarm_collapsed: PropTypes.string.isRequired,
   type: PropTypes.string.isRequired,
   values: PropTypes.arrayOf(PropTypes.oneOfType([
