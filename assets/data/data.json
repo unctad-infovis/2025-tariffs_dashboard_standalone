@@ -494,32 +494,6 @@
     "code": "520"
   },
   {
-    "ISO3": "LIE",
-    "Country": "Liechtenstein",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": null,
-        "manufacturing": 9.2567,
-        "total": 9.1956
-      },
-      "during": {
-        "fuels_mining": 10,
-        "agriculture": null,
-        "manufacturing": 24.1417,
-        "total": 23.9848
-      },
-      "now": {
-        "fuels_mining": 15,
-        "agriculture": null,
-        "manufacturing": 28.6594,
-        "total": 28.4738
-      }
-    },
-    "code": "000"
-  },
-  {
     "ISO3": "IDN",
     "Country": "Indonesia",
     "dev_status": "Developing",
@@ -2493,7 +2467,7 @@
         "total": 10.6262
       }
     },
-    "code": "579"
+    "code": "578"
   },
   {
     "ISO3": "ISR",
@@ -3950,32 +3924,6 @@
       }
     },
     "code": "184"
-  },
-  {
-    "ISO3": "MCO",
-    "Country": "Monaco",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 1.3344,
-        "manufacturing": 1.5674,
-        "total": 0.5517
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 11.3344,
-        "manufacturing": 12.0673,
-        "total": 4.2501
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 11.3344,
-        "manufacturing": 12.6184,
-        "total": 4.4427
-      }
-    },
-    "code": "000"
   },
   {
     "ISO3": "CMR",
