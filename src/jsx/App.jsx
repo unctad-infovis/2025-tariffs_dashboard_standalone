@@ -305,17 +305,6 @@ function App() {
               </div>
             )}
           </div>
-          <div className="caption_container">
-            <em />
-            {' '}
-
-            <br />
-
-            {' '}
-
-            {' '}
-
-          </div>
         </div>
       </div>
       <Tooltip
