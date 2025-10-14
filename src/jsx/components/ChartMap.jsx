@@ -1,5 +1,5 @@
 import React, {
-  useEffect, useCallback, useRef
+  useEffect, useCallback, useRef, useState
 } from 'react';
 import PropTypes from 'prop-types';
 
@@ -25,6 +25,60 @@ function ChartMap({
   category, hover_country = null, country = null, setCountry, setHoverCountry, swarm_collapsed, type, values
 }) {
   const chartMapRef = useRef(null);
+
+  const [timer, setTimer] = useState(2 * 60); // 2 minutes in seconds
+
+  // Function to check if any state is not default
+  const isNotDefault = useCallback(() => (
+    type !== 'pre'
+    || category !== 'total'
+    || country !== null
+    || chartMapRef?.current?.mapView?.zoom > 3
+    || hover_country !== null
+  ), [type, category, country, hover_country]);
+
+  useEffect(() => {
+    const resetTimer = () => {
+      if (isNotDefault()) setTimer(120);
+    };
+
+    window.addEventListener('mousemove', resetTimer);
+    window.addEventListener('keydown', resetTimer);
+    window.addEventListener('scroll', resetTimer);
+    window.addEventListener('touchstart', resetTimer);
+
+    return () => {
+      window.removeEventListener('mousemove', resetTimer);
+      window.removeEventListener('keydown', resetTimer);
+      window.removeEventListener('scroll', resetTimer);
+      window.removeEventListener('touchstart', resetTimer);
+    };
+  }, [type, category, country, hover_country, isNotDefault]); // dependencies because reset depends on state
+
+  // Countdown timer only runs if state is not default
+  useEffect(() => {
+    let interval;
+
+    if (isNotDefault()) {
+      interval = setInterval(() => {
+        setTimer(prev => Math.max(prev - 1, 0));
+      }, 1000);
+    } else {
+      setTimer(120); // reset timer if all defaults
+    }
+
+    // Always return cleanup function
+    return () => {
+      if (interval) clearInterval(interval);
+    };
+  }, [type, category, country, hover_country, isNotDefault]);
+
+  // Refresh page when timer reaches 0
+  useEffect(() => {
+    if (timer === 0) {
+      window.location.reload();
+    }
+  }, [timer]);
 
   useEffect(() => {
     const container = document.querySelector('.map_container');

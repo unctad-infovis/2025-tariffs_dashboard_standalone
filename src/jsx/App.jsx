@@ -20,10 +20,17 @@ function App() {
 
   const [data, setData] = useState(false);
 
-  const [type, setType] = useState('pre');
-  const [category, setCategory] = useState('total');
-  const [country, setCountry] = useState(null);
-  const [hoverCountry, setHoverCountry] = useState(null);
+  const DEFAULTS = {
+    type: 'pre',
+    category: 'total',
+    country: null,
+    hoverCountry: null,
+  };
+
+  const [type, setType] = useState(DEFAULTS.type);
+  const [category, setCategory] = useState(DEFAULTS.category);
+  const [country, setCountry] = useState(DEFAULTS.country);
+  const [hoverCountry, setHoverCountry] = useState(DEFAULTS.hoverCountry);
 
   const [swarmState, setSwarmState] = useState('expanded');
 
