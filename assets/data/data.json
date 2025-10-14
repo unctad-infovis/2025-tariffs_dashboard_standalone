@@ -781,7 +781,7 @@
   },
   {
     "ISO3": "CUW",
-    "Country": "CuraÃ§ao",
+    "Country": "Curaçao",
     "dev_status": "Developing",
     "data": {
       "pre": {
@@ -2698,26 +2698,6 @@
       }
     },
     "code": "222"
-  },
-  {
-    "ISO3": "SMR",
-    "Country": "San Marino",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 11.9226,
-        "agriculture": 6.933,
-        "manufacturing": 3.1346,
-        "total": 3.309
-      },
-      "now": {
-        "fuels_mining": 51.9226,
-        "agriculture": 16.933,
-        "manufacturing": 21.5113,
-        "total": 20.3851
-      }
-    },
-    "code": "674"
   },
   {
     "ISO3": "SOM",
