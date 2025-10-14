@@ -194,6 +194,7 @@ function ChartMap({
       chart: {
         backgroundColor: 'transparent',
         height: 580,
+        spacing: 10,
         type: 'map'
       },
       credits: {
@@ -216,7 +217,7 @@ function ChartMap({
       },
       mapNavigation: {
         buttonOptions: {
-          x: 0,
+          x: 10,
           verticalAlign: 'bottom'
         },
         enableButtons: true,
@@ -371,6 +372,7 @@ function ChartMap({
               }
             }
           },
+          clip: false,
           type: 'mapbubble',
           visible: true,
           zMax: maxValue,

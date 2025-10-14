@@ -1,991 +1,23 @@
 [
   {
-    "ISO3": "MMR",
-    "Country": "Myanmar",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.2327,
-        "manufacturing": 10.9214,
-        "total": 10.1323
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.2327,
-        "manufacturing": 21.4389,
-        "total": 20.6042
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 40.2327,
-        "manufacturing": 50.2621,
-        "total": 49.4923
-      }
-    },
-    "code": "104"
-  },
-  {
-    "ISO3": "CHN",
-    "Country": "China",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 18.2593,
-        "agriculture": 17.5733,
-        "manufacturing": 12.3658,
-        "total": 12.2907
-      },
-      "during": {
-        "fuels_mining": 40.3301,
-        "agriculture": 47.5712,
-        "manufacturing": 45.268,
-        "total": 44.6585
-      },
-      "now": {
-        "fuels_mining": 39.7667,
-        "agriculture": 47.5712,
-        "manufacturing": 47.6994,
-        "total": 47.0087
-      }
-    },
-    "code": "156"
-  },
-  {
-    "ISO3": "SYR",
-    "Country": "Syrian Arab Republic",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 2.7052,
-        "manufacturing": 1.3137,
-        "total": 1.9392
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 12.7052,
-        "manufacturing": 11.3776,
-        "total": 11.7891
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 43.7052,
-        "manufacturing": 42.2794,
-        "total": 42.1711
-      }
-    },
-    "code": "760"
-  },
-  {
-    "ISO3": "LAO",
-    "Country": "Lao People's Dem. Rep.",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.8615,
-        "agriculture": 4.3912,
-        "manufacturing": 1.8036,
-        "total": 1.7788
-      },
-      "during": {
-        "fuels_mining": 0.8615,
-        "agriculture": 14.3912,
-        "manufacturing": 11.1543,
-        "total": 10.8629
-      },
-      "now": {
-        "fuels_mining": 0.8615,
-        "agriculture": 44.3912,
-        "manufacturing": 39.0258,
-        "total": 37.9399
-      }
-    },
-    "code": "418"
-  },
-  {
-    "ISO3": "SRB",
-    "Country": "Serbia",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 2.8588,
-        "manufacturing": 3.4732,
-        "total": 3.2906
-      },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": 12.8588,
-        "manufacturing": 19.0349,
-        "total": 17.6777
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 37.8588,
-        "manufacturing": 36.4003,
-        "total": 35.4881
-      }
-    },
-    "code": "688"
-  },
-  {
-    "ISO3": "BIH",
-    "Country": "Bosnia and Herzegovina",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 2.1438,
-        "manufacturing": 4.3386,
-        "total": 4.2537
-      },
-      "during": {
-        "fuels_mining": 10,
-        "agriculture": 12.1438,
-        "manufacturing": 16.7888,
-        "total": 16.594
-      },
-      "now": {
-        "fuels_mining": 30,
-        "agriculture": 32.1438,
-        "manufacturing": 35.4847,
-        "total": 35.2692
-      }
-    },
-    "code": "070"
-  },
-  {
-    "ISO3": "BGD",
-    "Country": "Bangladesh",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 2.8956,
-        "manufacturing": 15.2735,
-        "total": 15.1474
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 12.8956,
-        "manufacturing": 25.2718,
-        "total": 25.115
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 22.8956,
-        "manufacturing": 35.2926,
-        "total": 35.1049
-      }
-    },
-    "code": "050"
-  },
-  {
-    "ISO3": "IND",
-    "Country": "India",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.2062,
-        "agriculture": 1.0464,
-        "manufacturing": 3.6092,
-        "total": 3.2762
-      },
-      "during": {
-        "fuels_mining": 0.3479,
-        "agriculture": 11.0457,
-        "manufacturing": 12.5584,
-        "total": 11.8818
-      },
-      "now": {
-        "fuels_mining": 0.9145,
-        "agriculture": 51.0431,
-        "manufacturing": 35.6693,
-        "total": 35.0618
-      }
-    },
-    "code": "356"
-  },
-  {
-    "ISO3": "MKD",
-    "Country": "North Macedonia",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 2.368,
-        "manufacturing": 2.703,
-        "total": 2.6281
-      },
-      "during": {
-        "fuels_mining": 10,
-        "agriculture": 12.368,
-        "manufacturing": 15.0799,
-        "total": 14.4946
-      },
-      "now": {
-        "fuels_mining": 15,
-        "agriculture": 17.368,
-        "manufacturing": 37.6208,
-        "total": 33.3519
-      }
-    },
-    "code": "807"
-  },
-  {
-    "ISO3": "BHR",
-    "Country": "Bahrain",
+    "ISO3": "ABW",
+    "Country": "Aruba",
     "dev_status": "Developing",
     "data": {
       "pre": {
         "fuels_mining": 0,
-        "agriculture": 0,
-        "manufacturing": 6.5926,
-        "total": 5.0209
-      },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": 10,
-        "manufacturing": 35.4615,
-        "total": 27.0773
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 10,
-        "manufacturing": 42.2534,
-        "total": 32.2499
-      }
-    },
-    "code": "048"
-  },
-  {
-    "ISO3": "LKA",
-    "Country": "Sri Lanka",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.0222,
-        "agriculture": 1.0569,
-        "manufacturing": 11.8082,
-        "total": 10.7945
-      },
-      "during": {
-        "fuels_mining": 4.7546,
-        "agriculture": 11.0569,
-        "manufacturing": 22.6478,
-        "total": 21.5217
-      },
-      "now": {
-        "fuels_mining": 5.1457,
-        "agriculture": 21.0569,
-        "manufacturing": 32.7611,
-        "total": 31.5891
-      }
-    },
-    "code": "144"
-  },
-  {
-    "ISO3": "ERI",
-    "Country": "Eritrea",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 5.2551,
-        "total": 3.6079
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 19.226,
-        "total": 14.8848
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 43.5393,
-        "total": 31.5773
-      }
-    },
-    "code": "232"
-  },
-  {
-    "ISO3": "AZE",
-    "Country": "Azerbaijan",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 1.9969,
-        "manufacturing": 10.4137,
-        "total": 7.1328
-      },
-      "during": {
-        "fuels_mining": 10,
-        "agriculture": 11.9969,
-        "manufacturing": 43.5215,
-        "total": 29.8997
-      },
-      "now": {
-        "fuels_mining": 10,
-        "agriculture": 11.9969,
-        "manufacturing": 43.5367,
-        "total": 29.9101
-      }
-    },
-    "code": "031"
-  },
-  {
-    "ISO3": "MDA",
-    "Country": "Moldova, Republic of",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 3.8938,
-        "manufacturing": 6.4643,
-        "total": 4.9428
-      },
-      "during": {
-        "fuels_mining": 10,
-        "agriculture": 13.8938,
-        "manufacturing": 17.1622,
-        "total": 15.2119
-      },
-      "now": {
-        "fuels_mining": 25,
-        "agriculture": 28.8938,
-        "manufacturing": 31.3003,
-        "total": 29.8315
-      }
-    },
-    "code": "498"
-  },
-  {
-    "ISO3": "KHM",
-    "Country": "Cambodia",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 2.6797,
-        "agriculture": 0.2349,
-        "manufacturing": 10.0077,
-        "total": 9.8783
-      },
-      "during": {
-        "fuels_mining": 12.6797,
-        "agriculture": 10.2349,
-        "manufacturing": 21.3912,
-        "total": 21.2206
-      },
-      "now": {
-        "fuels_mining": 21.6797,
-        "agriculture": 19.2349,
-        "manufacturing": 29.7859,
-        "total": 29.6026
-      }
-    },
-    "code": "116"
-  },
-  {
-    "ISO3": "PAK",
-    "Country": "Pakistan",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.0402,
-        "agriculture": 1.8867,
-        "manufacturing": 10.5449,
-        "total": 9.9665
-      },
-      "during": {
-        "fuels_mining": 5.2356,
-        "agriculture": 11.8867,
-        "manufacturing": 20.7536,
-        "total": 20.0465
-      },
-      "now": {
-        "fuels_mining": 9.9114,
-        "agriculture": 20.8867,
-        "manufacturing": 29.8841,
-        "total": 29.0648
-      }
-    },
-    "code": "586"
-  },
-  {
-    "ISO3": "BRA",
-    "Country": "Brazil",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.1359,
-        "agriculture": 7.0694,
-        "manufacturing": 1.4344,
-        "total": 2.1208
-      },
-      "during": {
-        "fuels_mining": 0.689,
-        "agriculture": 17.0694,
-        "manufacturing": 17.3018,
-        "total": 12.6743
-      },
-      "now": {
-        "fuels_mining": 1.0709,
-        "agriculture": 51.5361,
-        "manufacturing": 35.0938,
-        "total": 28.7888
-      }
-    },
-    "code": "076"
-  },
-  {
-    "ISO3": "TUN",
-    "Country": "Tunisia",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.7218,
-        "manufacturing": 4.4385,
-        "total": 2.6634
-      },
-      "during": {
-        "fuels_mining": 9.9957,
-        "agriculture": 10.7218,
-        "manufacturing": 17.143,
-        "total": 14.0398
-      },
-      "now": {
-        "fuels_mining": 24.9892,
-        "agriculture": 25.7218,
-        "manufacturing": 31.7689,
-        "total": 28.7791
-      }
-    },
-    "code": "788"
-  },
-  {
-    "ISO3": "NRU",
-    "Country": "Nauru",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
         "agriculture": null,
-        "manufacturing": 2.4152,
-        "total": 2.4152
+        "manufacturing": 0.4789,
+        "total": 0.0858
       },
-      "during": {
-        "fuels_mining": null,
+      "now": {
+        "fuels_mining": 10,
         "agriculture": null,
-        "manufacturing": 13.343,
-        "total": 13.343
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 28.5549,
-        "total": 28.5549
+        "manufacturing": 12.7884,
+        "total": 2.9416
       }
     },
-    "code": "520"
-  },
-  {
-    "ISO3": "IDN",
-    "Country": "Indonesia",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.2618,
-        "agriculture": 0.6757,
-        "manufacturing": 7.2821,
-        "total": 5.921
-      },
-      "during": {
-        "fuels_mining": 2.2488,
-        "agriculture": 10.6685,
-        "manufacturing": 18.029,
-        "total": 16.4449
-      },
-      "now": {
-        "fuels_mining": 4.037,
-        "agriculture": 19.6619,
-        "manufacturing": 26.0689,
-        "total": 24.6193
-      }
-    },
-    "code": "360"
-  },
-  {
-    "ISO3": "EGY",
-    "Country": "Egypt",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.0075,
-        "agriculture": 4.7034,
-        "manufacturing": 15.9032,
-        "total": 13.0345
-      },
-      "during": {
-        "fuels_mining": 9.3067,
-        "agriculture": 14.7034,
-        "manufacturing": 27.2179,
-        "total": 23.8551
-      },
-      "now": {
-        "fuels_mining": 9.3067,
-        "agriculture": 14.7034,
-        "manufacturing": 27.6465,
-        "total": 24.1842
-      }
-    },
-    "code": "818"
-  },
-  {
-    "ISO3": "TUR",
-    "Country": "Türkiye",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.1129,
-        "agriculture": 2.6531,
-        "manufacturing": 6.061,
-        "total": 4.8344
-      },
-      "during": {
-        "fuels_mining": 3.7177,
-        "agriculture": 12.653,
-        "manufacturing": 20.5239,
-        "total": 17.1882
-      },
-      "now": {
-        "fuels_mining": 5.52,
-        "agriculture": 17.653,
-        "manufacturing": 27.7705,
-        "total": 23.3762
-      }
-    },
-    "code": "792"
-  },
-  {
-    "ISO3": "VNM",
-    "Country": "Viet Nam",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.0001,
-        "agriculture": 0.975,
-        "manufacturing": 4.5604,
-        "total": 4.3726
-      },
-      "during": {
-        "fuels_mining": 9.9546,
-        "agriculture": 10.9744,
-        "manufacturing": 16.3322,
-        "total": 15.9529
-      },
-      "now": {
-        "fuels_mining": 19.9092,
-        "agriculture": 20.9739,
-        "manufacturing": 23.4239,
-        "total": 23.0817
-      }
-    },
-    "code": "704"
-  },
-  {
-    "ISO3": "THA",
-    "Country": "Thailand",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.0258,
-        "agriculture": 2.7318,
-        "manufacturing": 2.4382,
-        "total": 2.4448
-      },
-      "during": {
-        "fuels_mining": 5.2448,
-        "agriculture": 12.7318,
-        "manufacturing": 16.0682,
-        "total": 15.7095
-      },
-      "now": {
-        "fuels_mining": 9.9419,
-        "agriculture": 21.7318,
-        "manufacturing": 22.0706,
-        "total": 21.9081
-      }
-    },
-    "code": "764"
-  },
-  {
-    "ISO3": "KOR",
-    "Country": "Korea, Republic of",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.003,
-        "manufacturing": 0.6289,
-        "total": 0.5883
-      },
-      "during": {
-        "fuels_mining": 0.1165,
-        "agriculture": 10.003,
-        "manufacturing": 18.7103,
-        "total": 17.6561
-      },
-      "now": {
-        "fuels_mining": 0.1747,
-        "agriculture": 15.003,
-        "manufacturing": 22.8911,
-        "total": 21.6442
-      }
-    },
-    "code": "410"
-  },
-  {
-    "ISO3": "OMN",
-    "Country": "Oman",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.0346,
-        "manufacturing": 5.6396,
-        "total": 4.8517
-      },
-      "during": {
-        "fuels_mining": 0.0011,
-        "agriculture": 10.0346,
-        "manufacturing": 23.5672,
-        "total": 20.3554
-      },
-      "now": {
-        "fuels_mining": 0.0011,
-        "agriculture": 10.0346,
-        "manufacturing": 24.705,
-        "total": 21.3343
-      }
-    },
-    "code": "512"
-  },
-  {
-    "ISO3": "KGZ",
-    "Country": "Kyrgyzstan",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 3.0793,
-        "manufacturing": 3.5801,
-        "total": 3.4871
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 13.0793,
-        "manufacturing": 21.1081,
-        "total": 20.1093
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 13.0793,
-        "manufacturing": 22.4263,
-        "total": 21.2926
-      }
-    },
-    "code": "417"
-  },
-  {
-    "ISO3": "BRN",
-    "Country": "Brunei Darussalam",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.1575,
-        "agriculture": 6.4,
-        "manufacturing": 1.2421,
-        "total": 1.002
-      },
-      "during": {
-        "fuels_mining": 0.1575,
-        "agriculture": 16.4,
-        "manufacturing": 12.0461,
-        "total": 9.4665
-      },
-      "now": {
-        "fuels_mining": 0.1575,
-        "agriculture": 31.4,
-        "manufacturing": 26.4264,
-        "total": 20.7333
-      }
-    },
-    "code": "096"
-  },
-  {
-    "ISO3": "SMR",
-    "Country": "San Marino",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 6.933,
-        "manufacturing": 3.5864,
-        "total": 3.309
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 16.933,
-        "manufacturing": 18.8823,
-        "total": 16.7821
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 16.933,
-        "manufacturing": 22.4975,
-        "total": 19.8891
-      }
-    },
-    "code": "674"
-  },
-  {
-    "ISO3": "MEX",
-    "Country": "Mexico",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.7068,
-        "manufacturing": 0,
-        "total": 0.07
-      },
-      "during": {
-        "fuels_mining": 2.5,
-        "agriculture": 3.9032,
-        "manufacturing": 18.6364,
-        "total": 16.2769
-      },
-      "now": {
-        "fuels_mining": 2.5,
-        "agriculture": 3.9032,
-        "manufacturing": 22.6594,
-        "total": 19.6884
-      }
-    },
-    "code": "484"
-  },
-  {
-    "ISO3": "SOM",
-    "Country": "Somalia",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.6264,
-        "manufacturing": 4.4373,
-        "total": 3.3416
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.6264,
-        "manufacturing": 18.9978,
-        "total": 16.583
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10.6264,
-        "manufacturing": 23.1749,
-        "total": 19.5597
-      }
-    },
-    "code": "706"
-  },
-  {
-    "ISO3": "JPN",
-    "Country": "Japan",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.2931,
-        "agriculture": 2.4191,
-        "manufacturing": 1.8334,
-        "total": 1.8022
-      },
-      "during": {
-        "fuels_mining": 1.54,
-        "agriculture": 12.419,
-        "manufacturing": 18.4672,
-        "total": 18.0173
-      },
-      "now": {
-        "fuels_mining": 2.1622,
-        "agriculture": 15.4084,
-        "manufacturing": 19.9063,
-        "total": 19.4455
-      }
-    },
-    "code": "392"
-  },
-  {
-    "ISO3": "ARE",
-    "Country": "United Arab Emirates",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.1851,
-        "agriculture": 3.8012,
-        "manufacturing": 8.3564,
-        "total": 4.9558
-      },
-      "during": {
-        "fuels_mining": 0.6416,
-        "agriculture": 13.8012,
-        "manufacturing": 31.2953,
-        "total": 18.5391
-      },
-      "now": {
-        "fuels_mining": 0.6416,
-        "agriculture": 13.8012,
-        "manufacturing": 32.2329,
-        "total": 19.0817
-      }
-    },
-    "code": "784"
-  },
-  {
-    "ISO3": "ZWE",
-    "Country": "Zimbabwe",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.1885,
-        "agriculture": 4.1739,
-        "manufacturing": 1.5256,
-        "total": 3.8977
-      },
-      "during": {
-        "fuels_mining": 10.1885,
-        "agriculture": 14.1739,
-        "manufacturing": 10.8463,
-        "total": 13.7991
-      },
-      "now": {
-        "fuels_mining": 15.1885,
-        "agriculture": 19.1739,
-        "manufacturing": 15.6821,
-        "total": 18.7643
-      }
-    },
-    "code": "716"
-  },
-  {
-    "ISO3": "UKR",
-    "Country": "Ukraine",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.0332,
-        "agriculture": 2.5423,
-        "manufacturing": 0.9938,
-        "total": 1.2395
-      },
-      "during": {
-        "fuels_mining": 0.0881,
-        "agriculture": 12.5423,
-        "manufacturing": 18.8195,
-        "total": 17.0499
-      },
-      "now": {
-        "fuels_mining": 0.0881,
-        "agriculture": 12.5423,
-        "manufacturing": 20.4405,
-        "total": 18.3238
-      }
-    },
-    "code": "804"
-  },
-  {
-    "ISO3": "UZB",
-    "Country": "Uzbekistan",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 3.0349,
-        "manufacturing": 5.0829,
-        "total": 3.7636
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 13.0349,
-        "manufacturing": 18.9522,
-        "total": 14.4105
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 13.0349,
-        "manufacturing": 24.9887,
-        "total": 18.0887
-      }
-    },
-    "code": "860"
-  },
-  {
-    "ISO3": "PHL",
-    "Country": "Philippines",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.9265,
-        "manufacturing": 2.1851,
-        "total": 1.9972
-      },
-      "during": {
-        "fuels_mining": 7.6241,
-        "agriculture": 10.9239,
-        "manufacturing": 12.9081,
-        "total": 12.3508
-      },
-      "now": {
-        "fuels_mining": 14.4857,
-        "agriculture": 19.9215,
-        "manufacturing": 18.2838,
-        "total": 17.9455
-      }
-    },
-    "code": "608"
-  },
-  {
-    "ISO3": "NIC",
-    "Country": "Nicaragua",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.8464,
-        "manufacturing": 0.0029,
-        "total": 0.2475
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.8464,
-        "manufacturing": 12.0643,
-        "total": 11.6929
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 18.8464,
-        "manufacturing": 16.4172,
-        "total": 17.0968
-      }
-    },
-    "code": "558"
+    "code": "533"
   },
   {
     "ISO3": "AFG",
@@ -993,1143 +25,59 @@
     "dev_status": "Least developed",
     "data": {
       "pre": {
-        "fuels_mining": 0,
-        "agriculture": 2.3009,
-        "manufacturing": 1.1643,
+        "fuels_mining": 0.0734,
+        "agriculture": 2.2994,
+        "manufacturing": 1.3459,
         "total": 1.9044
       },
-      "during": {
-        "fuels_mining": 4.6418,
-        "agriculture": 12.3009,
-        "manufacturing": 11.2839,
-        "total": 11.7276
-      },
       "now": {
-        "fuels_mining": 6.9627,
-        "agriculture": 17.3009,
-        "manufacturing": 16.343,
-        "total": 16.639
+        "fuels_mining": 14.9341,
+        "agriculture": 17.2994,
+        "manufacturing": 16.8832,
+        "total": 16.6628
       }
     },
     "code": "004"
   },
   {
-    "ISO3": "NZL",
-    "Country": "New Zealand",
+    "ISO3": "AGO",
+    "Country": "Angola",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 4.8992,
+        "total": 0.0532
+      },
+      "now": {
+        "fuels_mining": 0.9074,
+        "agriculture": 7.0585,
+        "manufacturing": 22.4431,
+        "total": 1.1425
+      }
+    },
+    "code": "024"
+  },
+  {
+    "ISO3": "ALB",
+    "Country": "Albania",
     "dev_status": "Developed",
     "data": {
       "pre": {
-        "fuels_mining": 0,
-        "agriculture": 1.3977,
-        "manufacturing": 1.84,
-        "total": 1.4879
-      },
-      "during": {
-        "fuels_mining": 9.6705,
-        "agriculture": 11.3971,
-        "manufacturing": 12.3246,
-        "total": 11.2704
+        "fuels_mining": 6.327,
+        "agriculture": 0.5209,
+        "manufacturing": 4.8024,
+        "total": 3.8903
       },
       "now": {
-        "fuels_mining": 14.5057,
-        "agriculture": 16.3968,
-        "manufacturing": 18.6367,
-        "total": 16.5086
+        "fuels_mining": 27.0645,
+        "agriculture": 10.5209,
+        "manufacturing": 11.1846,
+        "total": 11.0331
       }
     },
-    "code": "554"
-  },
-  {
-    "ISO3": "TWN",
-    "Country": "China, Taiwan Province of",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.3165,
-        "agriculture": 2.7159,
-        "manufacturing": 2.1945,
-        "total": 2.1617
-      },
-      "during": {
-        "fuels_mining": 0.3395,
-        "agriculture": 12.7159,
-        "manufacturing": 13.5311,
-        "total": 13.2903
-      },
-      "now": {
-        "fuels_mining": 0.3626,
-        "agriculture": 22.7159,
-        "manufacturing": 16.7405,
-        "total": 16.4987
-      }
-    },
-    "code": "158"
-  },
-  {
-    "ISO3": "URY",
-    "Country": "Uruguay",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.4696,
-        "agriculture": 12.258,
-        "manufacturing": 1.1042,
-        "total": 8.566
-      },
-      "during": {
-        "fuels_mining": 4.2246,
-        "agriculture": 22.258,
-        "manufacturing": 8.889,
-        "total": 17.6675
-      },
-      "now": {
-        "fuels_mining": 4.2246,
-        "agriculture": 22.258,
-        "manufacturing": 3.9373,
-        "total": 16.1478
-      }
-    },
-    "code": "858"
-  },
-  {
-    "ISO3": "KNA",
-    "Country": "Saint Kitts and Nevis",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 0.4862,
-        "total": 0.3564
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 15.0693,
-        "total": 11.6719
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 21.1346,
-        "total": 16.1184
-      }
-    },
-    "code": "659"
-  },
-  {
-    "ISO3": "WLF",
-    "Country": "Wallis and Futuna Islands",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 2.9218,
-        "total": 2.0645
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 12.9218,
-        "total": 9.1301
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 22.1571,
-        "total": 15.6555
-      }
-    },
-    "code": "876"
-  },
-  {
-    "ISO3": "HKG",
-    "Country": "China, Hong Kong SAR",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.0487,
-        "agriculture": 1.7769,
-        "manufacturing": 2.0075,
-        "total": 1.0967
-      },
-      "during": {
-        "fuels_mining": 20.1213,
-        "agriculture": 31.7721,
-        "manufacturing": 31.6295,
-        "total": 17.3845
-      },
-      "now": {
-        "fuels_mining": 20.1213,
-        "agriculture": 31.7721,
-        "manufacturing": 28.2108,
-        "total": 15.5854
-      }
-    },
-    "code": "344"
-  },
-  {
-    "ISO3": "TUV",
-    "Country": "Tuvalu",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 5.1032,
-        "total": 5.0486
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 15.1583,
-        "total": 14.9962
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 15.6285,
-        "total": 15.4614
-      }
-    },
-    "code": "798"
-  },
-  {
-    "ISO3": "JOR",
-    "Country": "Jordan",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.2796,
-        "manufacturing": 0.0365,
-        "total": 0.0395
-      },
-      "during": {
-        "fuels_mining": 9.2126,
-        "agriculture": 10.2796,
-        "manufacturing": 9.9281,
-        "total": 9.7424
-      },
-      "now": {
-        "fuels_mining": 13.8189,
-        "agriculture": 15.2796,
-        "manufacturing": 15.7637,
-        "total": 15.4532
-      }
-    },
-    "code": "400"
-  },
-  {
-    "ISO3": "PRY",
-    "Country": "Paraguay",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 8.4409,
-        "manufacturing": 2.7846,
-        "total": 6.5693
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 18.4409,
-        "manufacturing": 8.669,
-        "total": 15.1806
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 18.4409,
-        "manufacturing": 8.8291,
-        "total": 15.2318
-      }
-    },
-    "code": "600"
-  },
-  {
-    "ISO3": "VUT",
-    "Country": "Vanuatu",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.0087,
-        "manufacturing": 1.2441,
-        "total": 0.0365
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.0087,
-        "manufacturing": 12.7251,
-        "total": 10.0698
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 15.0087,
-        "manufacturing": 17.2838,
-        "total": 15.0599
-      }
-    },
-    "code": "548"
-  },
-  {
-    "ISO3": "MWI",
-    "Country": "Malawi",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 0.3189,
-        "total": 0.003
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 13.0771,
-        "total": 10.0255
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 15,
-        "manufacturing": 17.165,
-        "total": 15.0156
-      }
-    },
-    "code": "454"
-  },
-  {
-    "ISO3": "BWA",
-    "Country": "Botswana",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 0.0019,
-        "total": 0.0019
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 10.0104,
-        "total": 9.9923
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 15,
-        "manufacturing": 15.0178,
-        "total": 14.9907
-      }
-    },
-    "code": "072"
-  },
-  {
-    "ISO3": "LSO",
-    "Country": "Lesotho",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 0.0001,
-        "total": 0.0001
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 10.0001,
-        "total": 9.9703
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 15,
-        "manufacturing": 15.0001,
-        "total": 14.9555
-      }
-    },
-    "code": "426"
-  },
-  {
-    "ISO3": "UGA",
-    "Country": "Uganda",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.2174,
-        "manufacturing": 0.2696,
-        "total": 0.2133
-      },
-      "during": {
-        "fuels_mining": 10,
-        "agriculture": 10.2174,
-        "manufacturing": 10.0597,
-        "total": 10.0248
-      },
-      "now": {
-        "fuels_mining": 15,
-        "agriculture": 15.2174,
-        "manufacturing": 15.2812,
-        "total": 14.9526
-      }
-    },
-    "code": "800"
-  },
-  {
-    "ISO3": "ETH",
-    "Country": "Ethiopia",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.2341,
-        "manufacturing": 17.316,
-        "total": 6.4895
-      },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": 10.2341,
-        "manufacturing": 27.3446,
-        "total": 14.9509
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 10.2341,
-        "manufacturing": 27.3456,
-        "total": 14.9513
-      }
-    },
-    "code": "231"
-  },
-  {
-    "ISO3": "MUS",
-    "Country": "Mauritius",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.019,
-        "manufacturing": 0.0264,
-        "total": 0.0216
-      },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": 10.019,
-        "manufacturing": 9.9066,
-        "total": 9.8385
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 15.019,
-        "manufacturing": 15.1759,
-        "total": 14.8739
-      }
-    },
-    "code": "480"
-  },
-  {
-    "ISO3": "FJI",
-    "Country": "Fiji",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.2178,
-        "manufacturing": 0.619,
-        "total": 0.2279
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.2176,
-        "manufacturing": 3.6168,
-        "total": 9.8775
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 15.2175,
-        "manufacturing": 5.2685,
-        "total": 14.7071
-      }
-    },
-    "code": "242"
-  },
-  {
-    "ISO3": "PNG",
-    "Country": "Papua New Guinea",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.0085,
-        "manufacturing": 0.2262,
-        "total": 0.0262
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.0085,
-        "manufacturing": 8.8227,
-        "total": 9.7028
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 15.0085,
-        "manufacturing": 14.2915,
-        "total": 14.6373
-      }
-    },
-    "code": "598"
-  },
-  {
-    "ISO3": "MAC",
-    "Country": "China, Macao SAR",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.3996,
-        "manufacturing": 10.8746,
-        "total": 7.6804
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.3996,
-        "manufacturing": 20.4075,
-        "total": 14.5975
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10.3996,
-        "manufacturing": 20.4317,
-        "total": 14.6146
-      }
-    },
-    "code": "446"
-  },
-  {
-    "ISO3": "LBN",
-    "Country": "Lebanon",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 4.8867,
-        "manufacturing": 3.5558,
-        "total": 3.8606
-      },
-      "during": {
-        "fuels_mining": 10,
-        "agriculture": 14.8867,
-        "manufacturing": 13.9556,
-        "total": 14.0047
-      },
-      "now": {
-        "fuels_mining": 10,
-        "agriculture": 14.8867,
-        "manufacturing": 14.7966,
-        "total": 14.6089
-      }
-    },
-    "code": "422"
-  },
-  {
-    "ISO3": "YEM",
-    "Country": "Yemen",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 3.2271,
-        "manufacturing": 1.8337,
-        "total": 2.8993
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 13.2271,
-        "manufacturing": 12.0221,
-        "total": 12.9085
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 13.2271,
-        "manufacturing": 17.14,
-        "total": 14.0727
-      }
-    },
-    "code": "887"
-  },
-  {
-    "ISO3": "ZAF",
-    "Country": "South Africa",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.2709,
-        "manufacturing": 0.7667,
-        "total": 0.7096
-      },
-      "during": {
-        "fuels_mining": 4.258,
-        "agriculture": 10.2708,
-        "manufacturing": 10.902,
-        "total": 10.5284
-      },
-      "now": {
-        "fuels_mining": 12.7739,
-        "agriculture": 30.2705,
-        "manufacturing": 13.2414,
-        "total": 13.8513
-      }
-    },
-    "code": "710"
-  },
-  {
-    "ISO3": "TON",
-    "Country": "Tonga",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.7252,
-        "manufacturing": 2.5473,
-        "total": 1.6476
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 9.6268,
-        "manufacturing": 15.3726,
-        "total": 12.2331
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 9.6268,
-        "manufacturing": 18.4367,
-        "total": 13.8344
-      }
-    },
-    "code": "776"
-  },
-  {
-    "ISO3": "EUN",
-    "Country": "European Union",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.3999,
-        "agriculture": 2.8001,
-        "manufacturing": 1.0548,
-        "total": 1.0829
-      },
-      "during": {
-        "fuels_mining": 0.9217,
-        "agriculture": 12.7999,
-        "manufacturing": 12.1392,
-        "total": 11.2928
-      },
-      "now": {
-        "fuels_mining": 1.181,
-        "agriculture": 15.1864,
-        "manufacturing": 14.5647,
-        "total": 13.5411
-      }
-    },
-    "code": "918"
-  },
-  {
-    "ISO3": "HND",
-    "Country": "Honduras",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.9048,
-        "manufacturing": 0.3378,
-        "total": 0.4818
-      },
-      "during": {
-        "fuels_mining": 10,
-        "agriculture": 10.9048,
-        "manufacturing": 14.3445,
-        "total": 13.3269
-      },
-      "now": {
-        "fuels_mining": 10,
-        "agriculture": 10.9048,
-        "manufacturing": 14.5166,
-        "total": 13.4521
-      }
-    },
-    "code": "340"
-  },
-  {
-    "ISO3": "CRI",
-    "Country": "Costa Rica",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.6192,
-        "manufacturing": 0.1766,
-        "total": 0.2563
-      },
-      "during": {
-        "fuels_mining": 9.6853,
-        "agriculture": 10.6192,
-        "manufacturing": 9.1952,
-        "total": 8.8257
-      },
-      "now": {
-        "fuels_mining": 14.5279,
-        "agriculture": 15.6192,
-        "manufacturing": 13.6736,
-        "total": 13.0882
-      }
-    },
-    "code": "188"
-  },
-  {
-    "ISO3": "CAF",
-    "Country": "Central African Republic",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 1.7128,
-        "total": 1.5815
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 10.024,
-        "total": 9.2946
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 14.1272,
-        "total": 13.0833
-      }
-    },
-    "code": "140"
-  },
-  {
-    "ISO3": "ZMB",
-    "Country": "Zambia",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 7.9874,
-        "manufacturing": 0.0017,
-        "total": 0.5813
-      },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": 17.9874,
-        "manufacturing": 8.2323,
-        "total": 8.8902
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 22.9874,
-        "manufacturing": 12.3686,
-        "total": 13.064
-      }
-    },
-    "code": "894"
-  },
-  {
-    "ISO3": "MNG",
-    "Country": "Mongolia",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.4509,
-        "agriculture": 0.2387,
-        "manufacturing": 6.1514,
-        "total": 2.0257
-      },
-      "during": {
-        "fuels_mining": 0.5275,
-        "agriculture": 10.2387,
-        "manufacturing": 23.1746,
-        "total": 12.7887
-      },
-      "now": {
-        "fuels_mining": 0.5275,
-        "agriculture": 10.2387,
-        "manufacturing": 23.9434,
-        "total": 13.0236
-      }
-    },
-    "code": "496"
-  },
-  {
-    "ISO3": "GNB",
-    "Country": "Guinea-Bissau",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 2.0133,
-        "total": 2.0133
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 12.0133,
-        "total": 12.0133
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 12.9609,
-        "total": 12.9609
-      }
-    },
-    "code": "624"
-  },
-  {
-    "ISO3": "CHE",
-    "Country": "Switzerland",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.665,
-        "agriculture": 1.4547,
-        "manufacturing": 0.6103,
-        "total": 0.6052
-      },
-      "during": {
-        "fuels_mining": 1.2873,
-        "agriculture": 11.4547,
-        "manufacturing": 6.4928,
-        "total": 6.3091
-      },
-      "now": {
-        "fuels_mining": 3.0922,
-        "agriculture": 40.4547,
-        "manufacturing": 12.5715,
-        "total": 12.7968
-      }
-    },
-    "code": "756"
-  },
-  {
-    "ISO3": "MYS",
-    "Country": "Malaysia",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.2294,
-        "agriculture": 2.2289,
-        "manufacturing": 1.0474,
-        "total": 1.0511
-      },
-      "during": {
-        "fuels_mining": 0.3276,
-        "agriculture": 12.226,
-        "manufacturing": 8.62,
-        "total": 8.51
-      },
-      "now": {
-        "fuels_mining": 0.416,
-        "agriculture": 21.2235,
-        "manufacturing": 12.8745,
-        "total": 12.7772
-      }
-    },
-    "code": "458"
-  },
-  {
-    "ISO3": "STP",
-    "Country": "Sao Tome and Principe",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0,
-        "manufacturing": 0.9183,
-        "total": 0.7615
-      },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": 10,
-        "manufacturing": 13.2215,
-        "total": 12.4817
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 10,
-        "manufacturing": 13.4248,
-        "total": 12.6503
-      }
-    },
-    "code": "678"
-  },
-  {
-    "ISO3": "MOZ",
-    "Country": "Mozambique",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 8.1356,
-        "manufacturing": 0.1091,
-        "total": 1.2671
-      },
-      "during": {
-        "fuels_mining": 0.9601,
-        "agriculture": 18.1356,
-        "manufacturing": 10.3907,
-        "total": 9.086
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 23.1356,
-        "manufacturing": 15.2931,
-        "total": 12.4924
-      }
-    },
-    "code": "508"
-  },
-  {
-    "ISO3": "CAN",
-    "Country": "Canada",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.0553,
-        "manufacturing": 2.6777e-06,
-        "total": 0.006
-      },
-      "during": {
-        "fuels_mining": 1.0819,
-        "agriculture": 3.2697,
-        "manufacturing": 16.3797,
-        "total": 9.4709
-      },
-      "now": {
-        "fuels_mining": 1.1366,
-        "agriculture": 4.5554,
-        "manufacturing": 21.425,
-        "total": 12.3299
-      }
-    },
-    "code": "124"
-  },
-  {
-    "ISO3": "CIV",
-    "Country": "Côte d’Ivoire",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.0001,
-        "manufacturing": 0.0199,
-        "total": 0.0039
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.0001,
-        "manufacturing": 0.7974,
-        "total": 8.1711
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 15.0001,
-        "manufacturing": 0.935,
-        "total": 12.2059
-      }
-    },
-    "code": "384"
-  },
-  {
-    "ISO3": "SYC",
-    "Country": "Seychelles",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 1.8952,
-        "total": 0.8414
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 15.1579,
-        "total": 11.95
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 15.7252,
-        "total": 12.2019
-      }
-    },
-    "code": "690"
-  },
-  {
-    "ISO3": "MAR",
-    "Country": "Morocco",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.0197,
-        "manufacturing": 0.9075,
-        "total": 0.6751
-      },
-      "during": {
-        "fuels_mining": 0.8465,
-        "agriculture": 10.0197,
-        "manufacturing": 12.8247,
-        "total": 11.718
-      },
-      "now": {
-        "fuels_mining": 0.8465,
-        "agriculture": 10.0197,
-        "manufacturing": 13.407,
-        "total": 12.1483
-      }
-    },
-    "code": "504"
-  },
-  {
-    "ISO3": "NPL",
-    "Country": "Nepal",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.5069,
-        "manufacturing": 2.2603,
-        "total": 1.8828
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.5061,
-        "manufacturing": 12.2534,
-        "total": 11.8421
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10.5061,
-        "manufacturing": 12.3726,
-        "total": 11.9357
-      }
-    },
-    "code": "524"
-  },
-  {
-    "ISO3": "MDG",
-    "Country": "Madagascar",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0,
-        "manufacturing": 0.0401,
-        "total": 0.0295
-      },
-      "during": {
-        "fuels_mining": 0.0523,
-        "agriculture": 10,
-        "manufacturing": 9.2382,
-        "total": 8.4769
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 15,
-        "manufacturing": 12.5868,
-        "total": 11.7722
-      }
-    },
-    "code": "450"
-  },
-  {
-    "ISO3": "MLI",
-    "Country": "Mali",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.0862,
-        "manufacturing": 2.8625,
-        "total": 1.05
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.0862,
-        "manufacturing": 12.7653,
-        "total": 10.1264
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10.0862,
-        "manufacturing": 17.2679,
-        "total": 11.7019
-      }
-    },
-    "code": "466"
-  },
-  {
-    "ISO3": "SLV",
-    "Country": "El Salvador",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 8.1045,
-        "manufacturing": 0.2029,
-        "total": 1.6389
-      },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": 18.1045,
-        "manufacturing": 11.102,
-        "total": 11.532
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 18.1045,
-        "manufacturing": 11.3049,
-        "total": 11.682
-      }
-    },
-    "code": "222"
-  },
-  {
-    "ISO3": "MRT",
-    "Country": "Mauritania",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 1.4793,
-        "total": 0.9816
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 11.2182,
-        "total": 10.6799
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 12.5541,
-        "total": 11.5664
-      }
-    },
-    "code": "478"
+    "code": "008"
   },
   {
     "ISO3": "AND",
@@ -2137,25 +85,139 @@
     "dev_status": "Developed",
     "data": {
       "pre": {
-        "fuels_mining": null,
+        "fuels_mining": 0,
         "agriculture": 0,
-        "manufacturing": 1.622,
+        "manufacturing": 1.6858,
         "total": 1.5913
       },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 11.2989,
-        "total": 11.094
-      },
       "now": {
-        "fuels_mining": null,
+        "fuels_mining": 0,
         "agriculture": 10,
-        "manufacturing": 11.7307,
+        "manufacturing": 12.1927,
         "total": 11.5176
       }
     },
     "code": "020"
+  },
+  {
+    "ISO3": "ARE",
+    "Country": "United Arab Emirates",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 4.1123,
+        "agriculture": 3.7616,
+        "manufacturing": 7.8389,
+        "total": 4.9558
+      },
+      "now": {
+        "fuels_mining": 20.657,
+        "agriculture": 13.7581,
+        "manufacturing": 25.5022,
+        "total": 19.0841
+      }
+    },
+    "code": "784"
+  },
+  {
+    "ISO3": "ARG",
+    "Country": "Argentina",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.0926,
+        "agriculture": 3.226,
+        "manufacturing": 0.8843,
+        "total": 1.3143
+      },
+      "now": {
+        "fuels_mining": 8.3927,
+        "agriculture": 13.226,
+        "manufacturing": 11.7577,
+        "total": 10.4264
+      }
+    },
+    "code": "032"
+  },
+  {
+    "ISO3": "ARM",
+    "Country": "Armenia",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.1302,
+        "agriculture": 3.427,
+        "manufacturing": 5.5551,
+        "total": 1.7149
+      },
+      "now": {
+        "fuels_mining": 9.8759,
+        "agriculture": 13.427,
+        "manufacturing": 15.5386,
+        "total": 11.4646
+      }
+    },
+    "code": "051"
+  },
+  {
+    "ISO3": "ATG",
+    "Country": "Antigua and Barbuda",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 3.0549,
+        "agriculture": 0,
+        "manufacturing": 0.0297,
+        "total": 0.6059
+      },
+      "now": {
+        "fuels_mining": 16.411,
+        "agriculture": 10,
+        "manufacturing": 10.023,
+        "total": 8.318
+      }
+    },
+    "code": "028"
+  },
+  {
+    "ISO3": "AUS",
+    "Country": "Australia",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.1311,
+        "manufacturing": 0.0101,
+        "total": 0.0462
+      },
+      "now": {
+        "fuels_mining": 6.7172,
+        "agriculture": 10.1269,
+        "manufacturing": 12.151,
+        "total": 9.4775
+      }
+    },
+    "code": "036"
+  },
+  {
+    "ISO3": "AZE",
+    "Country": "Azerbaijan",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 12.6085,
+        "agriculture": 1.9969,
+        "manufacturing": 3.6627,
+        "total": 7.1328
+      },
+      "now": {
+        "fuels_mining": 51.7054,
+        "agriculture": 11.9969,
+        "manufacturing": 18.5108,
+        "total": 29.9266
+      }
+    },
+    "code": "031"
   },
   {
     "ISO3": "BDI",
@@ -2168,12 +230,6 @@
         "manufacturing": 15.5192,
         "total": 1.5
       },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 25.4012,
-        "total": 11.4885
-      },
       "now": {
         "fuels_mining": null,
         "agriculture": 10,
@@ -2184,186 +240,24 @@
     "code": "108"
   },
   {
-    "ISO3": "DOM",
-    "Country": "Dominican Republic",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.2167,
-        "manufacturing": 0.6466,
-        "total": 0.5182
-      },
-      "during": {
-        "fuels_mining": 9.4664,
-        "agriculture": 10.2163,
-        "manufacturing": 11.8603,
-        "total": 11.1029
-      },
-      "now": {
-        "fuels_mining": 9.4664,
-        "agriculture": 10.2163,
-        "manufacturing": 12.3689,
-        "total": 11.4674
-      }
-    },
-    "code": "214"
-  },
-  {
-    "ISO3": "ARM",
-    "Country": "Armenia",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.1156,
-        "agriculture": 3.427,
-        "manufacturing": 1.3772,
-        "total": 1.7149
-      },
-      "during": {
-        "fuels_mining": 10.1156,
-        "agriculture": 13.427,
-        "manufacturing": 11.1538,
-        "total": 11.4466
-      },
-      "now": {
-        "fuels_mining": 10.1156,
-        "agriculture": 13.427,
-        "manufacturing": 11.1622,
-        "total": 11.4534
-      }
-    },
-    "code": "051"
-  },
-  {
-    "ISO3": "MNE",
-    "Country": "Montenegro",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.1679,
-        "manufacturing": 1.299,
-        "total": 0.7848
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.1679,
-        "manufacturing": 9.5465,
-        "total": 8.5267
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10.1679,
-        "manufacturing": 14.4036,
-        "total": 11.2674
-      }
-    },
-    "code": "499"
-  },
-  {
-    "ISO3": "ISL",
-    "Country": "Iceland",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.3342,
-        "manufacturing": 0.1879,
-        "total": 0.2437
-      },
-      "during": {
-        "fuels_mining": 10,
-        "agriculture": 10.3342,
-        "manufacturing": 5.6505,
-        "total": 7.494
-      },
-      "now": {
-        "fuels_mining": 15,
-        "agriculture": 15.3342,
-        "manufacturing": 8.4376,
-        "total": 11.1517
-      }
-    },
-    "code": "352"
-  },
-  {
-    "ISO3": "GTM",
-    "Country": "Guatemala",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 1.7994,
-        "manufacturing": 0.3134,
-        "total": 1.2015
-      },
-      "during": {
-        "fuels_mining": 0.0154,
-        "agriculture": 11.7994,
-        "manufacturing": 10.6065,
-        "total": 11.1122
-      },
-      "now": {
-        "fuels_mining": 0.0154,
-        "agriculture": 11.7994,
-        "manufacturing": 10.6144,
-        "total": 11.1152
-      }
-    },
-    "code": "320"
-  },
-  {
-    "ISO3": "PSE",
-    "Country": "State of Palestine",
-    "dev_status": "Developing",
+    "ISO3": "BEN",
+    "Country": "Benin",
+    "dev_status": "Least developed",
     "data": {
       "pre": {
         "fuels_mining": null,
         "agriculture": 0,
-        "manufacturing": 1.66,
-        "total": 0.2604
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 16.8297,
-        "total": 11.0713
+        "manufacturing": 0.0055,
+        "total": 0.0003
       },
       "now": {
         "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 17.0541,
-        "total": 11.1065
+        "agriculture": 10.4124,
+        "manufacturing": 25.8469,
+        "total": 10.7504
       }
     },
-    "code": "275"
-  },
-  {
-    "ISO3": "BTN",
-    "Country": "Bhutan",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 1.1953,
-        "manufacturing": 1.4957,
-        "total": 1.4487
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 11.1953,
-        "manufacturing": 11.4428,
-        "total": 11.0981
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 11.1953,
-        "manufacturing": 11.4428,
-        "total": 11.0981
-      }
-    },
-    "code": "064"
+    "code": "204"
   },
   {
     "ISO3": "BFA",
@@ -2376,384 +270,454 @@
         "manufacturing": 2.6382,
         "total": 0.4512
       },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.1604,
-        "manufacturing": 18.4122,
-        "total": 10.8759
-      },
       "now": {
         "fuels_mining": null,
         "agriculture": 10.1604,
-        "manufacturing": 19.2738,
-        "total": 10.9784
+        "manufacturing": 19.3772,
+        "total": 10.9907
       }
     },
     "code": "854"
   },
   {
-    "ISO3": "ALB",
-    "Country": "Albania",
+    "ISO3": "BGD",
+    "Country": "Bangladesh",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 2.5156,
+        "manufacturing": 15.2885,
+        "total": 15.1474
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 22.5156,
+        "manufacturing": 35.3094,
+        "total": 35.1067
+      }
+    },
+    "code": "050"
+  },
+  {
+    "ISO3": "BHR",
+    "Country": "Bahrain",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 6.4895,
+        "agriculture": 0,
+        "manufacturing": 0.823,
+        "total": 5.0209
+      },
+      "now": {
+        "fuels_mining": 36.6127,
+        "agriculture": 10,
+        "manufacturing": 22.8548,
+        "total": 32.2555
+      }
+    },
+    "code": "048"
+  },
+  {
+    "ISO3": "BHS",
+    "Country": "Bahamas",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.4752,
+        "agriculture": 0.0031,
+        "manufacturing": 0.1067,
+        "total": 0.1795
+      },
+      "now": {
+        "fuels_mining": 1.3608,
+        "agriculture": 10.0006,
+        "manufacturing": 10.5913,
+        "total": 1.4339
+      }
+    },
+    "code": "044"
+  },
+  {
+    "ISO3": "BIH",
+    "Country": "Bosnia and Herzegovina",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.9251,
+        "agriculture": 2.144,
+        "manufacturing": 4.3372,
+        "total": 4.2537
+      },
+      "now": {
+        "fuels_mining": 32.3899,
+        "agriculture": 32.144,
+        "manufacturing": 35.3176,
+        "total": 35.1143
+      }
+    },
+    "code": "070"
+  },
+  {
+    "ISO3": "BLZ",
+    "Country": "Belize",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.0041,
+        "manufacturing": 0.3813,
+        "total": 0.0171
+      },
+      "now": {
+        "fuels_mining": 9.9394,
+        "agriculture": 9.732,
+        "manufacturing": 15.229,
+        "total": 9.0919
+      }
+    },
+    "code": "084"
+  },
+  {
+    "ISO3": "BOL",
+    "Country": "Bolivia (Plurinational State of)",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.1421,
+        "agriculture": 1.1548,
+        "manufacturing": 2.2093,
+        "total": 0.5828
+      },
+      "now": {
+        "fuels_mining": 1.2108,
+        "agriculture": 15.3793,
+        "manufacturing": 13.2443,
+        "total": 5.6801
+      }
+    },
+    "code": "068"
+  },
+  {
+    "ISO3": "BRA",
+    "Country": "Brazil",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.4262,
+        "agriculture": 5.4358,
+        "manufacturing": 1.5791,
+        "total": 2.1208
+      },
+      "now": {
+        "fuels_mining": 4.9255,
+        "agriculture": 41.6921,
+        "manufacturing": 39.0227,
+        "total": 28.8356
+      }
+    },
+    "code": "076"
+  },
+  {
+    "ISO3": "BRB",
+    "Country": "Barbados",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.0048,
+        "manufacturing": 0.1235,
+        "total": 0.0319
+      },
+      "now": {
+        "fuels_mining": 6.2465,
+        "agriculture": 10.0048,
+        "manufacturing": 10.5815,
+        "total": 8.3626
+      }
+    },
+    "code": "052"
+  },
+  {
+    "ISO3": "BRN",
+    "Country": "Brunei Darussalam",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.1575,
+        "agriculture": 6.4,
+        "manufacturing": 1.2421,
+        "total": 1.002
+      },
+      "now": {
+        "fuels_mining": 0.1575,
+        "agriculture": 31.4,
+        "manufacturing": 26.4264,
+        "total": 20.7333
+      }
+    },
+    "code": "096"
+  },
+  {
+    "ISO3": "BTN",
+    "Country": "Bhutan",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 1.443,
+        "manufacturing": 1.5057,
+        "total": 1.4487
+      },
+      "now": {
+        "fuels_mining": 10,
+        "agriculture": 11.443,
+        "manufacturing": 11.5082,
+        "total": 11.1077
+      }
+    },
+    "code": "064"
+  },
+  {
+    "ISO3": "BWA",
+    "Country": "Botswana",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 0.6455,
+        "total": 0.0019
+      },
+      "now": {
+        "fuels_mining": 15.0003,
+        "agriculture": 15.2998,
+        "manufacturing": 23.4665,
+        "total": 14.9987
+      }
+    },
+    "code": "072"
+  },
+  {
+    "ISO3": "CAF",
+    "Country": "Central African Republic",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 2.9217,
+        "total": 1.5815
+      },
+      "now": {
+        "fuels_mining": 2.2422,
+        "agriculture": 2.1858,
+        "manufacturing": 23.2797,
+        "total": 13.4558
+      }
+    },
+    "code": "140"
+  },
+  {
+    "ISO3": "CAN",
+    "Country": "Canada",
     "dev_status": "Developed",
     "data": {
       "pre": {
         "fuels_mining": 0,
-        "agriculture": 0.521,
-        "manufacturing": 4.8084,
-        "total": 3.8903
-      },
-      "during": {
-        "fuels_mining": 0.9771,
-        "agriculture": 10.521,
-        "manufacturing": 10.4451,
-        "total": 10.4169
+        "agriculture": 0.0468,
+        "manufacturing": 3.1378e-06,
+        "total": 0.006
       },
       "now": {
-        "fuels_mining": 0.9771,
-        "agriculture": 10.521,
-        "manufacturing": 11.1347,
-        "total": 10.9593
+        "fuels_mining": 4.9577,
+        "agriculture": 5.1653,
+        "manufacturing": 20.8548,
+        "total": 12.0454
       }
     },
-    "code": "008"
+    "code": "124"
   },
   {
-    "ISO3": "KIR",
-    "Country": "Kiribati",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.1419,
-        "manufacturing": 1.6825,
-        "total": 0.2779
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.1419,
-        "manufacturing": 18.5832,
-        "total": 10.6146
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10.1419,
-        "manufacturing": 20.5176,
-        "total": 10.7905
-      }
-    },
-    "code": "296"
-  },
-  {
-    "ISO3": "NOR",
-    "Country": "Norway",
+    "ISO3": "CHE",
+    "Country": "Switzerland",
     "dev_status": "Developed",
     "data": {
       "pre": {
-        "fuels_mining": 0.3533,
-        "agriculture": 0.2334,
-        "manufacturing": 1.8451,
-        "total": 0.9628
-      },
-      "during": {
-        "fuels_mining": 0.4516,
-        "agriculture": 10.2334,
-        "manufacturing": 12.0149,
-        "total": 7.8153
+        "fuels_mining": 0.2009,
+        "agriculture": 1.4556,
+        "manufacturing": 0.6317,
+        "total": 0.6052
       },
       "now": {
-        "fuels_mining": 0.5007,
-        "agriculture": 15.2334,
-        "manufacturing": 15.7115,
-        "total": 10.6262
+        "fuels_mining": 5.962,
+        "agriculture": 40.4506,
+        "manufacturing": 12.9152,
+        "total": 12.7927
       }
     },
-    "code": "578"
+    "code": "756"
   },
   {
-    "ISO3": "ISR",
-    "Country": "Israel",
-    "dev_status": "Developed",
+    "ISO3": "CHL",
+    "Country": "Chile",
+    "dev_status": "Developing",
     "data": {
       "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.0009,
-        "manufacturing": 0.4769,
-        "total": 0.4417
-      },
-      "during": {
-        "fuels_mining": 1.031,
-        "agriculture": 10.0009,
-        "manufacturing": 7.8402,
-        "total": 7.5186
+        "fuels_mining": 0.0001,
+        "agriculture": 0.1278,
+        "manufacturing": 0.5808,
+        "total": 0.1354
       },
       "now": {
-        "fuels_mining": 1.5465,
-        "agriculture": 15.0009,
-        "manufacturing": 11.0151,
-        "total": 10.5877
+        "fuels_mining": 0.8359,
+        "agriculture": 10.0953,
+        "manufacturing": 12.7164,
+        "total": 6.4426
       }
     },
-    "code": "376"
+    "code": "152"
   },
   {
-    "ISO3": "SWZ",
-    "Country": "Eswatini",
+    "ISO3": "CHN",
+    "Country": "China",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 23.4129,
+        "agriculture": 17.8306,
+        "manufacturing": 12.3029,
+        "total": 12.2907
+      },
+      "now": {
+        "fuels_mining": 62.0529,
+        "agriculture": 47.8274,
+        "manufacturing": 47.7169,
+        "total": 47.1328
+      }
+    },
+    "code": "156"
+  },
+  {
+    "ISO3": "CIV",
+    "Country": "Côte d’Ivoire",
     "dev_status": "Developing",
     "data": {
       "pre": {
         "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 0.6022,
-        "total": 0.1988
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 11.0292,
-        "total": 10.3224
+        "agriculture": 0.0001,
+        "manufacturing": 0.2565,
+        "total": 0.0039
       },
       "now": {
         "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 11.5717,
-        "total": 10.5015
+        "agriculture": 12.3294,
+        "manufacturing": 12.7083,
+        "total": 12.2822
       }
     },
-    "code": "748"
+    "code": "384"
   },
   {
-    "ISO3": "TLS",
-    "Country": "Timor-Leste",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 3.101,
-        "total": 0.5889
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 12.7193,
-        "total": 10.4573
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 12.9457,
-        "total": 10.5003
-      }
-    },
-    "code": "626"
-  },
-  {
-    "ISO3": "NAM",
-    "Country": "Namibia",
+    "ISO3": "CMR",
+    "Country": "Cameroon",
     "dev_status": "Developing",
     "data": {
       "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0,
-        "manufacturing": 0.013,
-        "total": 0.0088
-      },
-      "during": {
-        "fuels_mining": 0.2836,
-        "agriculture": 10,
-        "manufacturing": 9.9327,
-        "total": 6.9327
+        "fuels_mining": 0.1029,
+        "agriculture": 0.1011,
+        "manufacturing": 0.6849,
+        "total": 0.1439
       },
       "now": {
-        "fuels_mining": 0.4254,
-        "agriculture": 15,
-        "manufacturing": 14.8799,
-        "total": 10.3861
+        "fuels_mining": 0.1115,
+        "agriculture": 10.1468,
+        "manufacturing": 8.3656,
+        "total": 4.5233
       }
     },
-    "code": "516"
+    "code": "120"
   },
   {
-    "ISO3": "GMB",
-    "Country": "Gambia",
+    "ISO3": "COD",
+    "Country": "Congo, Dem. Rep. of the",
     "dev_status": "Least developed",
     "data": {
       "pre": {
         "fuels_mining": 0,
         "agriculture": 0,
-        "manufacturing": 1.7889,
-        "total": 0.2005
-      },
-      "during": {
-        "fuels_mining": 10,
-        "agriculture": 10,
-        "manufacturing": 13.076,
-        "total": 10.3448
+        "manufacturing": 0.5711,
+        "total": 0.0048
       },
       "now": {
-        "fuels_mining": 10,
-        "agriculture": 10,
-        "manufacturing": 13.076,
-        "total": 10.3448
+        "fuels_mining": 1.198,
+        "agriculture": 9.7551,
+        "manufacturing": 18.6381,
+        "total": 1.8825
       }
     },
-    "code": "270"
+    "code": "180"
   },
   {
-    "ISO3": "ARG",
-    "Country": "Argentina",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.1107,
-        "agriculture": 3.3446,
-        "manufacturing": 0.4851,
-        "total": 1.3143
-      },
-      "during": {
-        "fuels_mining": 0.1338,
-        "agriculture": 13.3446,
-        "manufacturing": 13.9905,
-        "total": 9.9155
-      },
-      "now": {
-        "fuels_mining": 0.1338,
-        "agriculture": 13.3446,
-        "manufacturing": 14.8976,
-        "total": 10.2726
-      }
-    },
-    "code": "032"
-  },
-  {
-    "ISO3": "HTI",
-    "Country": "Haiti",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.0483,
-        "manufacturing": 0.2371,
-        "total": 0.2325
-      },
-      "during": {
-        "fuels_mining": 10,
-        "agriculture": 10.0335,
-        "manufacturing": 10.2346,
-        "total": 10.1831
-      },
-      "now": {
-        "fuels_mining": 10,
-        "agriculture": 10.0335,
-        "manufacturing": 10.2654,
-        "total": 10.2131
-      }
-    },
-    "code": "332"
-  },
-  {
-    "ISO3": "SUR",
-    "Country": "Suriname",
+    "ISO3": "COG",
+    "Country": "Congo",
     "dev_status": "Developing",
     "data": {
       "pre": {
         "fuels_mining": 0,
-        "agriculture": 0.0021,
-        "manufacturing": 1.9357,
-        "total": 0.3108
-      },
-      "during": {
-        "fuels_mining": 9.9918,
-        "agriculture": 10.0021,
-        "manufacturing": 9.8876,
-        "total": 9.332
+        "agriculture": 0,
+        "manufacturing": 0.0419,
+        "total": 0.0034
       },
       "now": {
-        "fuels_mining": 9.9918,
-        "agriculture": 10.0021,
-        "manufacturing": 14.552,
-        "total": 10.0781
+        "fuels_mining": 1.0101,
+        "agriculture": 0.4914,
+        "manufacturing": 10.8623,
+        "total": 1.4784
       }
     },
-    "code": "740"
+    "code": "178"
   },
   {
-    "ISO3": "CPV",
-    "Country": "Cabo Verde",
+    "ISO3": "COK",
+    "Country": "Cook Islands",
     "dev_status": "Developing",
     "data": {
       "pre": {
         "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 2.3348,
-        "total": 0.3359
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 13.9599,
-        "total": 9.9023
+        "agriculture": null,
+        "manufacturing": 2.9444,
+        "total": 0.8073
       },
       "now": {
         "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 15.1563,
-        "total": 10.0744
+        "agriculture": null,
+        "manufacturing": 15.8484,
+        "total": 4.4632
       }
     },
-    "code": "132"
+    "code": "184"
   },
   {
-    "ISO3": "FRO",
-    "Country": "Faroe Islands",
-    "dev_status": "Developed",
+    "ISO3": "COL",
+    "Country": "Colombia",
+    "dev_status": "Developing",
     "data": {
       "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.0059,
-        "manufacturing": 5.2054,
-        "total": 0.0198
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.0059,
-        "manufacturing": 21.3535,
-        "total": 10.0231
+        "fuels_mining": 0.0373,
+        "agriculture": 0.6198,
+        "manufacturing": 3.8318,
+        "total": 0.8135
       },
       "now": {
-        "fuels_mining": null,
-        "agriculture": 10.0059,
-        "manufacturing": 24.0406,
-        "total": 10.0303
+        "fuels_mining": 0.5125,
+        "agriculture": 10.6169,
+        "manufacturing": 23.5178,
+        "total": 6.9508
       }
     },
-    "code": "234"
-  },
-  {
-    "ISO3": "SDN",
-    "Country": "Sudan",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 0,
-        "total": 0
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 10,
-        "total": 10
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 10,
-        "total": 10
-      }
-    },
-    "code": "729"
+    "code": "170"
   },
   {
     "ISO3": "COM",
@@ -2766,1528 +730,74 @@
         "manufacturing": 0.4263,
         "total": 0.1061
       },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 9.5355,
-        "total": 9.8844
-      },
       "now": {
         "fuels_mining": null,
         "agriculture": 10,
-        "manufacturing": 9.979,
-        "total": 9.9948
+        "manufacturing": 11.183,
+        "total": 10.2945
       }
     },
     "code": "174"
   },
   {
-    "ISO3": "MDV",
-    "Country": "Maldives",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.8771,
-        "manufacturing": 2.6452,
-        "total": 0.8444
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.8771,
-        "manufacturing": 22.2152,
-        "total": 9.9708
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10.8771,
-        "manufacturing": 22.2152,
-        "total": 9.9708
-      }
-    },
-    "code": "462"
-  },
-  {
-    "ISO3": "TGO",
-    "Country": "Togo",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.0139,
-        "manufacturing": 0.0452,
-        "total": 0.0167
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.0139,
-        "manufacturing": 10.0069,
-        "total": 10.002
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10.0139,
-        "manufacturing": 9.3944,
-        "total": 9.9462
-      }
-    },
-    "code": "768"
-  },
-  {
-    "ISO3": "MHL",
-    "Country": "Marshall Islands",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0,
-        "manufacturing": 2.0055,
-        "total": 0.0942
-      },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": 10,
-        "manufacturing": 15.6763,
-        "total": 9.9262
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 10,
-        "manufacturing": 16.0096,
-        "total": 9.9419
-      }
-    },
-    "code": "584"
-  },
-  {
-    "ISO3": "SSD",
-    "Country": "South Sudan",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.0181,
-        "manufacturing": 0.1307,
-        "total": 0.047
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.0181,
-        "manufacturing": 9.2575,
-        "total": 9.7853
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10.0181,
-        "manufacturing": 9.2575,
-        "total": 9.7853
-      }
-    },
-    "code": "728"
-  },
-  {
-    "ISO3": "GRL",
-    "Country": "Greenland",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.0022,
-        "manufacturing": 0.593,
-        "total": 0.0092
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.0022,
-        "manufacturing": 11.2932,
-        "total": 9.7673
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10.0022,
-        "manufacturing": 11.8034,
-        "total": 9.7734
-      }
-    },
-    "code": "304"
-  },
-  {
-    "ISO3": "KEN",
-    "Country": "Kenya",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.0344,
-        "manufacturing": 0.1757,
-        "total": 0.1417
-      },
-      "during": {
-        "fuels_mining": 0.101,
-        "agriculture": 10.0318,
-        "manufacturing": 10.2555,
-        "total": 9.6025
-      },
-      "now": {
-        "fuels_mining": 0.101,
-        "agriculture": 10.0318,
-        "manufacturing": 10.3359,
-        "total": 9.6647
-      }
-    },
-    "code": "404"
-  },
-  {
-    "ISO3": "ECU",
-    "Country": "Ecuador",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.0637,
-        "agriculture": 2.1564,
-        "manufacturing": 2.7051,
-        "total": 1.3247
-      },
-      "during": {
-        "fuels_mining": 0.0639,
-        "agriculture": 12.1564,
-        "manufacturing": 9.549,
-        "total": 6.7819
-      },
-      "now": {
-        "fuels_mining": 0.064,
-        "agriculture": 17.1564,
-        "manufacturing": 13.8898,
-        "total": 9.6011
-      }
-    },
-    "code": "218"
-  },
-  {
-    "ISO3": "GBR",
-    "Country": "United Kingdom",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.2907,
-        "agriculture": 1.6602,
-        "manufacturing": 0.9109,
-        "total": 0.8478
-      },
-      "during": {
-        "fuels_mining": 0.3647,
-        "agriculture": 11.6602,
-        "manufacturing": 9.6415,
-        "total": 8.5614
-      },
-      "now": {
-        "fuels_mining": 0.3643,
-        "agriculture": 11.6602,
-        "manufacturing": 10.7911,
-        "total": 9.5146
-      }
-    },
-    "code": "826"
-  },
-  {
-    "ISO3": "AUS",
-    "Country": "Australia",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.126,
-        "manufacturing": 0.0076,
-        "total": 0.0462
-      },
-      "during": {
-        "fuels_mining": 0.7483,
-        "agriculture": 10.1221,
-        "manufacturing": 12.0399,
-        "total": 10.147
-      },
-      "now": {
-        "fuels_mining": 0.7483,
-        "agriculture": 10.1221,
-        "manufacturing": 10.8373,
-        "total": 9.4726
-      }
-    },
-    "code": "036"
-  },
-  {
-    "ISO3": "IRN",
-    "Country": "Iran (Islamic Republic of)",
+    "ISO3": "CPV",
+    "Country": "Cabo Verde",
     "dev_status": "Developing",
     "data": {
       "pre": {
         "fuels_mining": null,
         "agriculture": 0,
-        "manufacturing": 0.0011,
-        "total": 0.0009
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 9.2825,
-        "total": 9.4189
+        "manufacturing": 2.3348,
+        "total": 0.3359
       },
       "now": {
         "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 9.2825,
-        "total": 9.4189
+        "agriculture": 29.8971,
+        "manufacturing": 15.4452,
+        "total": 25.8227
       }
     },
-    "code": "364"
+    "code": "132"
   },
   {
-    "ISO3": "BEN",
-    "Country": "Benin",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 0.0052,
-        "total": 0.0003
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 9.568,
-        "total": 9.4039
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 9.568,
-        "total": 9.4039
-      }
-    },
-    "code": "204"
-  },
-  {
-    "ISO3": "NER",
-    "Country": "Niger",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0,
-        "manufacturing": 1.903,
-        "total": 0.8662
-      },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": 10,
-        "manufacturing": 14.9531,
-        "total": 7.8651
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 10,
-        "manufacturing": 18.2161,
-        "total": 9.3504
-      }
-    },
-    "code": "562"
-  },
-  {
-    "ISO3": "TZA",
-    "Country": "Tanzania, United Republic of",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 0.028,
-        "total": 0.0179
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 9.5345,
-        "total": 9.2448
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 9.6771,
-        "total": 9.3357
-      }
-    },
-    "code": "834"
-  },
-  {
-    "ISO3": "WSM",
-    "Country": "Samoa",
+    "ISO3": "CRI",
+    "Country": "Costa Rica",
     "dev_status": "Developing",
     "data": {
       "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.7024,
-        "manufacturing": 0.6888,
-        "total": 0.6874
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.7024,
-        "manufacturing": 5.099,
-        "total": 9.144
+        "fuels_mining": 0.2411,
+        "agriculture": 0.6186,
+        "manufacturing": 0.1754,
+        "total": 0.2563
       },
       "now": {
-        "fuels_mining": null,
-        "agriculture": 10.7024,
-        "manufacturing": 5.3683,
-        "total": 9.2104
+        "fuels_mining": 5.4253,
+        "agriculture": 15.6112,
+        "manufacturing": 13.8363,
+        "total": 13.0982
       }
     },
-    "code": "882"
-  },
-  {
-    "ISO3": "GEO",
-    "Country": "Georgia",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 1.1644,
-        "manufacturing": 5.8282,
-        "total": 4.859
-      },
-      "during": {
-        "fuels_mining": 0.0055,
-        "agriculture": 11.1644,
-        "manufacturing": 9.4581,
-        "total": 8.9736
-      },
-      "now": {
-        "fuels_mining": 0.0055,
-        "agriculture": 11.1644,
-        "manufacturing": 9.6044,
-        "total": 9.0921
-      }
-    },
-    "code": "268"
-  },
-  {
-    "ISO3": "BLZ",
-    "Country": "Belize",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.0042,
-        "manufacturing": 0.1968,
-        "total": 0.0171
-      },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": 10.0042,
-        "manufacturing": 7.3339,
-        "total": 8.959
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 10.0042,
-        "manufacturing": 9.1465,
-        "total": 9.0839
-      }
-    },
-    "code": "084"
-  },
-  {
-    "ISO3": "GRD",
-    "Country": "Grenada",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.0013,
-        "manufacturing": 0.0755,
-        "total": 0.0128
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.0013,
-        "manufacturing": 5.1868,
-        "total": 9.0256
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10.0013,
-        "manufacturing": 5.3826,
-        "total": 9.0559
-      }
-    },
-    "code": "308"
-  },
-  {
-    "ISO3": "PER",
-    "Country": "Peru",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.1334,
-        "manufacturing": 0.1819,
-        "total": 0.1307
-      },
-      "during": {
-        "fuels_mining": 3.3519,
-        "agriculture": 10.1334,
-        "manufacturing": 5.3794,
-        "total": 7.5555
-      },
-      "now": {
-        "fuels_mining": 0.0524,
-        "agriculture": 10.1334,
-        "manufacturing": 10.6251,
-        "total": 8.8801
-      }
-    },
-    "code": "604"
-  },
-  {
-    "ISO3": "SLE",
-    "Country": "Sierra Leone",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0,
-        "manufacturing": 0.8192,
-        "total": 0.3336
-      },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": 10,
-        "manufacturing": 12.4735,
-        "total": 6.9028
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 10,
-        "manufacturing": 17.2355,
-        "total": 8.8419
-      }
-    },
-    "code": "694"
-  },
-  {
-    "ISO3": "RWA",
-    "Country": "Rwanda",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 0.5932,
-        "total": 0.1202
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 4.5066,
-        "total": 8.7413
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 4.522,
-        "total": 8.7444
-      }
-    },
-    "code": "646"
-  },
-  {
-    "ISO3": "FSM",
-    "Country": "Micronesia (Federated States of)",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 0.8944,
-        "total": 0.6199
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 9.0163,
-        "manufacturing": 10.8441,
-        "total": 8.5482
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 9.0163,
-        "manufacturing": 11.1138,
-        "total": 8.7351
-      }
-    },
-    "code": "583"
-  },
-  {
-    "ISO3": "GIN",
-    "Country": "Guinea",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.1172,
-        "manufacturing": 0.8966,
-        "total": 0.5874
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.1172,
-        "manufacturing": 6.6976,
-        "total": 7.3147
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10.1172,
-        "manufacturing": 8.7165,
-        "total": 8.5539
-      }
-    },
-    "code": "324"
-  },
-  {
-    "ISO3": "BRB",
-    "Country": "Barbados",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.0048,
-        "manufacturing": 0.1056,
-        "total": 0.0319
-      },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": 10.0048,
-        "manufacturing": 9.8748,
-        "total": 8.3358
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 10.0048,
-        "manufacturing": 9.9719,
-        "total": 8.3626
-      }
-    },
-    "code": "052"
-  },
-  {
-    "ISO3": "TKM",
-    "Country": "Turkmenistan",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 0.1191,
-        "total": 0.0951
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 10.4038,
-        "total": 8.3082
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 10.4469,
-        "total": 8.3425
-      }
-    },
-    "code": "795"
-  },
-  {
-    "ISO3": "NIU",
-    "Country": "Niue",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 0.1148,
-        "total": 0.1147
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 8.3273,
-        "total": 8.3224
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 8.3273,
-        "total": 8.3224
-      }
-    },
-    "code": "570"
-  },
-  {
-    "ISO3": "ATG",
-    "Country": "Antigua and Barbuda",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.0747,
-        "agriculture": 0,
-        "manufacturing": 0.954,
-        "total": 0.6059
-      },
-      "during": {
-        "fuels_mining": 0.4524,
-        "agriculture": 10,
-        "manufacturing": 12.8917,
-        "total": 8.2553
-      },
-      "now": {
-        "fuels_mining": 0.4524,
-        "agriculture": 10,
-        "manufacturing": 12.9913,
-        "total": 8.318
-      }
-    },
-    "code": "028"
-  },
-  {
-    "ISO3": "PLW",
-    "Country": "Palau",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 0.0115,
-        "total": 0.0048
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 8.9316,
-        "manufacturing": 10.0115,
-        "total": 6.2811
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 8.9316,
-        "manufacturing": 14.7906,
-        "total": 8.264
-      }
-    },
-    "code": "585"
-  },
-  {
-    "ISO3": "SLB",
-    "Country": "Solomon Islands",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.2212,
-        "manufacturing": 1.9786,
-        "total": 0.6145
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 8.0915,
-        "manufacturing": 8.2118,
-        "total": 7.6354
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 8.0915,
-        "manufacturing": 9.1767,
-        "total": 7.8585
-      }
-    },
-    "code": "090"
-  },
-  {
-    "ISO3": "DMA",
-    "Country": "Dominica",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 0.4682,
-        "total": 0.2986
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 10.8474,
-        "total": 7.7721
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 10.8474,
-        "total": 7.7721
-      }
-    },
-    "code": "212"
-  },
-  {
-    "ISO3": "QAT",
-    "Country": "Qatar",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.3723,
-        "agriculture": 0,
-        "manufacturing": 3.3086,
-        "total": 1.2567
-      },
-      "during": {
-        "fuels_mining": 0.3723,
-        "agriculture": 10,
-        "manufacturing": 22.2001,
-        "total": 7.4047
-      },
-      "now": {
-        "fuels_mining": 0.3723,
-        "agriculture": 10,
-        "manufacturing": 22.2745,
-        "total": 7.4289
-      }
-    },
-    "code": "634"
-  },
-  {
-    "ISO3": "JAM",
-    "Country": "Jamaica",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.5848,
-        "manufacturing": 0.1166,
-        "total": 0.3529
-      },
-      "during": {
-        "fuels_mining": 1.1446,
-        "agriculture": 10.5848,
-        "manufacturing": 1.9408,
-        "total": 6.572
-      },
-      "now": {
-        "fuels_mining": 1.1446,
-        "agriculture": 10.5848,
-        "manufacturing": 5.8131,
-        "total": 7.3172
-      }
-    },
-    "code": "388"
-  },
-  {
-    "ISO3": "VCT",
-    "Country": "Saint Vincent and the Grenadines",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 0.038,
-        "total": 0.0183
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 9.1262,
-        "total": 7.0075
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 9.1759,
-        "total": 7.0315
-      }
-    },
-    "code": "670"
-  },
-  {
-    "ISO3": "COL",
-    "Country": "Colombia",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.6196,
-        "manufacturing": 2.2976,
-        "total": 0.8135
-      },
-      "during": {
-        "fuels_mining": 0.1076,
-        "agriculture": 10.6196,
-        "manufacturing": 13.4585,
-        "total": 6.6586
-      },
-      "now": {
-        "fuels_mining": 0.1076,
-        "agriculture": 10.6196,
-        "manufacturing": 14.4387,
-        "total": 6.9358
-      }
-    },
-    "code": "170"
-  },
-  {
-    "ISO3": "TTO",
-    "Country": "Trinidad and Tobago",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 2.7099,
-        "manufacturing": 0.0066,
-        "total": 0.0529
-      },
-      "during": {
-        "fuels_mining": 0.0004,
-        "agriculture": 12.7099,
-        "manufacturing": 9.9767,
-        "total": 4.5912
-      },
-      "now": {
-        "fuels_mining": 0.0006,
-        "agriculture": 17.7099,
-        "manufacturing": 14.9731,
-        "total": 6.8653
-      }
-    },
-    "code": "780"
-  },
-  {
-    "ISO3": "LCA",
-    "Country": "Saint Lucia",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.2868,
-        "manufacturing": 0.4268,
-        "total": 0.271
-      },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": 10.2868,
-        "manufacturing": 7.4499,
-        "total": 6.6296
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 10.2868,
-        "manufacturing": 7.4499,
-        "total": 6.6296
-      }
-    },
-    "code": "662"
-  },
-  {
-    "ISO3": "PAN",
-    "Country": "Panama",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 1.1977,
-        "manufacturing": 0.2516,
-        "total": 0.4928
-      },
-      "during": {
-        "fuels_mining": 6.807,
-        "agriculture": 11.1977,
-        "manufacturing": 6.9106,
-        "total": 6.3613
-      },
-      "now": {
-        "fuels_mining": 6.807,
-        "agriculture": 11.1977,
-        "manufacturing": 7.1803,
-        "total": 6.4634
-      }
-    },
-    "code": "591"
-  },
-  {
-    "ISO3": "SEN",
-    "Country": "Senegal",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0,
-        "manufacturing": 0.0692,
-        "total": 0.0221
-      },
-      "during": {
-        "fuels_mining": 0.9417,
-        "agriculture": 10,
-        "manufacturing": 10.2047,
-        "total": 6.0615
-      },
-      "now": {
-        "fuels_mining": 0.9417,
-        "agriculture": 10,
-        "manufacturing": 10.2832,
-        "total": 6.0866
-      }
-    },
-    "code": "686"
-  },
-  {
-    "ISO3": "CHL",
-    "Country": "Chile",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.1356,
-        "manufacturing": 0.1462,
-        "total": 0.1354
-      },
-      "during": {
-        "fuels_mining": 6.4514,
-        "agriculture": 10.1356,
-        "manufacturing": 2.595,
-        "total": 5.6691
-      },
-      "now": {
-        "fuels_mining": 4.5289,
-        "agriculture": 10.1356,
-        "manufacturing": 3.0712,
-        "total": 5.8912
-      }
-    },
-    "code": "152"
-  },
-  {
-    "ISO3": "BOL",
-    "Country": "Bolivia (Plurinational State of)",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.9302,
-        "agriculture": 1.2596,
-        "manufacturing": 0.3573,
-        "total": 0.5828
-      },
-      "during": {
-        "fuels_mining": 4.1936,
-        "agriculture": 11.2596,
-        "manufacturing": 1.6669,
-        "total": 3.8481
-      },
-      "now": {
-        "fuels_mining": 5.8254,
-        "agriculture": 16.2596,
-        "manufacturing": 2.3684,
-        "total": 5.5127
-      }
-    },
-    "code": "068"
-  },
-  {
-    "ISO3": "DZA",
-    "Country": "Algeria",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.0674,
-        "agriculture": 2.0493,
-        "manufacturing": 6.4024,
-        "total": 0.8948
-      },
-      "during": {
-        "fuels_mining": 0.465,
-        "agriculture": 12.0493,
-        "manufacturing": 19.3293,
-        "total": 2.9613
-      },
-      "now": {
-        "fuels_mining": 1.2602,
-        "agriculture": 32.0493,
-        "manufacturing": 32.6008,
-        "total": 5.4739
-      }
-    },
-    "code": "012"
+    "code": "188"
   },
   {
     "ISO3": "CUW",
-    "Country": "Curaçao",
+    "Country": "CuraÃ§ao",
     "dev_status": "Developing",
     "data": {
       "pre": {
         "fuels_mining": 0,
         "agriculture": 0,
-        "manufacturing": 0.3638,
+        "manufacturing": 0.6266,
         "total": 0.1265
       },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": 10,
-        "manufacturing": 10.0295,
-        "total": 3.5472
-      },
       "now": {
-        "fuels_mining": 0,
+        "fuels_mining": 2.0424,
         "agriculture": 10,
-        "manufacturing": 14.9014,
+        "manufacturing": 20.6642,
         "total": 5.2415
       }
     },
     "code": "531"
-  },
-  {
-    "ISO3": "GHA",
-    "Country": "Ghana",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.0031,
-        "manufacturing": 0.0494,
-        "total": 0.0067
-      },
-      "during": {
-        "fuels_mining": 0.0001,
-        "agriculture": 10.0031,
-        "manufacturing": 6.8234,
-        "total": 3.2243
-      },
-      "now": {
-        "fuels_mining": 0.0002,
-        "agriculture": 15.0031,
-        "manufacturing": 10.127,
-        "total": 4.8231
-      }
-    },
-    "code": "288"
-  },
-  {
-    "ISO3": "SGP",
-    "Country": "Singapore",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 6.7802,
-        "manufacturing": 0.2264,
-        "total": 0.6233
-      },
-      "during": {
-        "fuels_mining": 0.0001,
-        "agriculture": 16.7802,
-        "manufacturing": 4.1096,
-        "total": 4.3283
-      },
-      "now": {
-        "fuels_mining": 0.0001,
-        "agriculture": 16.7802,
-        "manufacturing": 4.4755,
-        "total": 4.6154
-      }
-    },
-    "code": "702"
-  },
-  {
-    "ISO3": "COK",
-    "Country": "Cook Islands",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 2.7274,
-        "total": 0.8073
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 14.4046,
-        "total": 4.2637
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 15.0785,
-        "total": 4.4632
-      }
-    },
-    "code": "184"
-  },
-  {
-    "ISO3": "CMR",
-    "Country": "Cameroon",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.1025,
-        "agriculture": 0.1525,
-        "manufacturing": 0.253,
-        "total": 0.1439
-      },
-      "during": {
-        "fuels_mining": 0.103,
-        "agriculture": 10.1525,
-        "manufacturing": 1.9651,
-        "total": 3.0008
-      },
-      "now": {
-        "fuels_mining": 0.1033,
-        "agriculture": 15.1525,
-        "manufacturing": 2.8228,
-        "total": 4.4296
-      }
-    },
-    "code": "120"
-  },
-  {
-    "ISO3": "ABW",
-    "Country": "Aruba",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 0.3513,
-        "total": 0.0858
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 11.9801,
-        "total": 2.9257
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 12.041,
-        "total": 2.9405
-      }
-    },
-    "code": "533"
-  },
-  {
-    "ISO3": "SAU",
-    "Country": "Saudi Arabia",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.1567,
-        "agriculture": 1.0279,
-        "manufacturing": 1.8963,
-        "total": 0.436
-      },
-      "during": {
-        "fuels_mining": 0.1937,
-        "agriculture": 11.0279,
-        "manufacturing": 12.7894,
-        "total": 2.2463
-      },
-      "now": {
-        "fuels_mining": 0.1937,
-        "agriculture": 11.0279,
-        "manufacturing": 12.9471,
-        "total": 2.2717
-      }
-    },
-    "code": "682"
-  },
-  {
-    "ISO3": "KAZ",
-    "Country": "Kazakhstan",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.1193,
-        "agriculture": 1.6564,
-        "manufacturing": 1.8405,
-        "total": 0.8486
-      },
-      "during": {
-        "fuels_mining": 0.1204,
-        "agriculture": 11.6564,
-        "manufacturing": 4.6092,
-        "total": 2.0804
-      },
-      "now": {
-        "fuels_mining": 0.1221,
-        "agriculture": 26.6564,
-        "manufacturing": 4.7459,
-        "total": 2.2501
-      }
-    },
-    "code": "398"
-  },
-  {
-    "ISO3": "TJK",
-    "Country": "Tajikistan",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0.7678,
-        "manufacturing": 0.1264,
-        "total": 0.1484
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10.7678,
-        "manufacturing": 1.8405,
-        "total": 2.1408
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10.7678,
-        "manufacturing": 1.8405,
-        "total": 2.1408
-      }
-    },
-    "code": "762"
-  },
-  {
-    "ISO3": "BHS",
-    "Country": "Bahamas",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.4792,
-        "agriculture": 0.0031,
-        "manufacturing": 0.0979,
-        "total": 0.1795
-      },
-      "during": {
-        "fuels_mining": 1.3333,
-        "agriculture": 10.0006,
-        "manufacturing": 9.8499,
-        "total": 1.4245
-      },
-      "now": {
-        "fuels_mining": 1.3333,
-        "agriculture": 10.0006,
-        "manufacturing": 10.1025,
-        "total": 1.4339
-      }
-    },
-    "code": "044"
-  },
-  {
-    "ISO3": "LBR",
-    "Country": "Liberia",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0,
-        "manufacturing": 0.0039,
-        "total": 0.0038
-      },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": 10,
-        "manufacturing": 1.109,
-        "total": 1.2086
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 10,
-        "manufacturing": 1.1041,
-        "total": 1.2038
-      }
-    },
-    "code": "430"
-  },
-  {
-    "ISO3": "GAB",
-    "Country": "Gabon",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.0623,
-        "agriculture": 3.0185,
-        "manufacturing": 4.9937,
-        "total": 0.8374
-      },
-      "during": {
-        "fuels_mining": 0.0623,
-        "agriculture": 13.0185,
-        "manufacturing": 6.9975,
-        "total": 1.1561
-      },
-      "now": {
-        "fuels_mining": 0.0623,
-        "agriculture": 13.0185,
-        "manufacturing": 7.2116,
-        "total": 1.1898
-      }
-    },
-    "code": "266"
-  },
-  {
-    "ISO3": "COG",
-    "Country": "Congo",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 0.0035,
-        "total": 0.0034
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 0.8152,
-        "total": 0.9992
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 0.882,
-        "total": 1.0634
-      }
-    },
-    "code": "178"
-  },
-  {
-    "ISO3": "NGA",
-    "Country": "Nigeria",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0.0078,
-        "manufacturing": 0.0779,
-        "total": 0.0041
-      },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": 10.0078,
-        "manufacturing": 9.4942,
-        "total": 0.6903
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 15.0078,
-        "manufacturing": 14.5119,
-        "total": 1.0492
-      }
-    },
-    "code": "566"
-  },
-  {
-    "ISO3": "AGO",
-    "Country": "Angola",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0,
-        "manufacturing": 0.8257,
-        "total": 0.0532
-      },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": 10,
-        "manufacturing": 11.2553,
-        "total": 0.7261
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 15,
-        "manufacturing": 16.0775,
-        "total": 1.0372
-      }
-    },
-    "code": "024"
-  },
-  {
-    "ISO3": "COD",
-    "Country": "Congo, Dem. Rep. of the",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 0.005,
-        "total": 0.0048
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 0.2502,
-        "total": 0.6504
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 15,
-        "manufacturing": 0.3603,
-        "total": 0.9613
-      }
-    },
-    "code": "180"
-  },
-  {
-    "ISO3": "VEN",
-    "Country": "Venezuela (Bolivarian Rep. of)",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.0728,
-        "agriculture": 0.8316,
-        "manufacturing": 3.6861,
-        "total": 0.1548
-      },
-      "during": {
-        "fuels_mining": 0.0728,
-        "agriculture": 10.8316,
-        "manufacturing": 13.3244,
-        "total": 0.6069
-      },
-      "now": {
-        "fuels_mining": 0.0728,
-        "agriculture": 15.8316,
-        "manufacturing": 23.8976,
-        "total": 0.9286
-      }
-    },
-    "code": "862"
-  },
-  {
-    "ISO3": "TCD",
-    "Country": "Chad",
-    "dev_status": "Least developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0,
-        "manufacturing": 0.5373,
-        "total": 0.0028
-      },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": 10,
-        "manufacturing": 2.0296,
-        "total": 0.4889
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 15,
-        "manufacturing": 2.4767,
-        "total": 0.7304
-      }
-    },
-    "code": "148"
   },
   {
     "ISO3": "DJI",
@@ -4297,153 +807,377 @@
       "pre": {
         "fuels_mining": null,
         "agriculture": 0,
-        "manufacturing": 0.2449,
+        "manufacturing": 0.2459,
         "total": 0.0038
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 17.8847,
-        "total": 0.5579
       },
       "now": {
         "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 18.1126,
-        "total": 0.5614
+        "agriculture": 11.6088,
+        "manufacturing": 20.1759,
+        "total": 0.6373
       }
     },
     "code": "262"
   },
   {
-    "ISO3": "KWT",
-    "Country": "Kuwait",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.0973,
-        "agriculture": 9.7737,
-        "manufacturing": 1.4036,
-        "total": 0.1097
-      },
-      "during": {
-        "fuels_mining": 0.1827,
-        "agriculture": 19.7737,
-        "manufacturing": 12.7425,
-        "total": 0.2553
-      },
-      "now": {
-        "fuels_mining": 0.1827,
-        "agriculture": 19.7737,
-        "manufacturing": 13.0093,
-        "total": 0.2566
-      }
-    },
-    "code": "414"
-  },
-  {
-    "ISO3": "SXM",
-    "Country": "Sint Maarten (Dutch part)",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": null,
-        "agriculture": 0,
-        "manufacturing": 0.374,
-        "total": 0.009
-      },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 7.6734,
-        "total": 0.2004
-      },
-      "now": {
-        "fuels_mining": null,
-        "agriculture": 10,
-        "manufacturing": 7.8054,
-        "total": 0.2036
-      }
-    },
-    "code": "534"
-  },
-  {
-    "ISO3": "IRQ",
-    "Country": "Iraq",
-    "dev_status": "Developing",
-    "data": {
-      "pre": {
-        "fuels_mining": 0.1088,
-        "agriculture": 4.903,
-        "manufacturing": 0.295,
-        "total": 0.1101
-      },
-      "during": {
-        "fuels_mining": 0.1088,
-        "agriculture": 14.903,
-        "manufacturing": 10.6971,
-        "total": 0.1357
-      },
-      "now": {
-        "fuels_mining": 0.1088,
-        "agriculture": 39.903,
-        "manufacturing": 34.6705,
-        "total": 0.1952
-      }
-    },
-    "code": "368"
-  },
-  {
-    "ISO3": "GUY",
-    "Country": "Guyana",
+    "ISO3": "DMA",
+    "Country": "Dominica",
     "dev_status": "Developing",
     "data": {
       "pre": {
         "fuels_mining": 0,
-        "agriculture": 0.0163,
-        "manufacturing": 0.7656,
-        "total": 0.0043
-      },
-      "during": {
-        "fuels_mining": 0.0062,
-        "agriculture": 10.0163,
-        "manufacturing": 4.9014,
-        "total": 0.1205
+        "agriculture": 0,
+        "manufacturing": 0.7264,
+        "total": 0.2986
       },
       "now": {
-        "fuels_mining": 0.0094,
-        "agriculture": 15.0163,
-        "manufacturing": 6.6748,
-        "total": 0.177
+        "fuels_mining": 9.7465,
+        "agriculture": 10,
+        "manufacturing": 11.4893,
+        "total": 7.7721
       }
     },
-    "code": "328"
+    "code": "212"
   },
   {
-    "ISO3": "LBY",
-    "Country": "Libya",
+    "ISO3": "DOM",
+    "Country": "Dominican Republic",
     "dev_status": "Developing",
     "data": {
       "pre": {
-        "fuels_mining": 0.1197,
-        "agriculture": 0,
-        "manufacturing": 0.0324,
-        "total": 0.1196
-      },
-      "during": {
-        "fuels_mining": 0.1197,
-        "agriculture": 10,
-        "manufacturing": 9.1527,
-        "total": 0.1276
+        "fuels_mining": 4.0754,
+        "agriculture": 0.2167,
+        "manufacturing": 0.4802,
+        "total": 0.5182
       },
       "now": {
-        "fuels_mining": 0.1197,
-        "agriculture": 30,
-        "manufacturing": 27.2529,
-        "total": 0.1434
+        "fuels_mining": 21.2521,
+        "agriculture": 10.2161,
+        "manufacturing": 11.9441,
+        "total": 11.4742
       }
     },
-    "code": "434"
+    "code": "214"
+  },
+  {
+    "ISO3": "DZA",
+    "Country": "Algeria",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.07,
+        "agriculture": 2.0493,
+        "manufacturing": 5.1401,
+        "total": 0.8948
+      },
+      "now": {
+        "fuels_mining": 0.07,
+        "agriculture": 32.0493,
+        "manufacturing": 32.5303,
+        "total": 5.4739
+      }
+    },
+    "code": "012"
+  },
+  {
+    "ISO3": "ECU",
+    "Country": "Ecuador",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.2521,
+        "agriculture": 2.1544,
+        "manufacturing": 4.4218,
+        "total": 1.3247
+      },
+      "now": {
+        "fuels_mining": 0.9991,
+        "agriculture": 17.1414,
+        "manufacturing": 27.8659,
+        "total": 9.7721
+      }
+    },
+    "code": "218"
+  },
+  {
+    "ISO3": "EGY",
+    "Country": "Egypt",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.892,
+        "agriculture": 4.6979,
+        "manufacturing": 15.3664,
+        "total": 13.0345
+      },
+      "now": {
+        "fuels_mining": 11.0448,
+        "agriculture": 14.6979,
+        "manufacturing": 27.0676,
+        "total": 24.2269
+      }
+    },
+    "code": "818"
+  },
+  {
+    "ISO3": "ERI",
+    "Country": "Eritrea",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 0,
+        "manufacturing": 5.2746,
+        "total": 3.6079
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 10,
+        "manufacturing": 43.7012,
+        "total": 31.5773
+      }
+    },
+    "code": "232"
+  },
+  {
+    "ISO3": "ETH",
+    "Country": "Ethiopia",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.3637,
+        "agriculture": 0.2341,
+        "manufacturing": 17.4959,
+        "total": 6.4895
+      },
+      "now": {
+        "fuels_mining": 9.5892,
+        "agriculture": 10.2341,
+        "manufacturing": 27.5263,
+        "total": 14.9514
+      }
+    },
+    "code": "231"
+  },
+  {
+    "ISO3": "EUN",
+    "Country": "European Union",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.7416,
+        "agriculture": 2.6463,
+        "manufacturing": 1.0566,
+        "total": 1.0829
+      },
+      "now": {
+        "fuels_mining": 8.7455,
+        "agriculture": 14.78,
+        "manufacturing": 10.7548,
+        "total": 10.3414
+      }
+    },
+    "code": "918"
+  },
+  {
+    "ISO3": "FJI",
+    "Country": "Fiji",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.2131,
+        "manufacturing": 2.1566,
+        "total": 0.2279
+      },
+      "now": {
+        "fuels_mining": 15,
+        "agriculture": 14.9119,
+        "manufacturing": 17.6777,
+        "total": 14.7289
+      }
+    },
+    "code": "242"
+  },
+  {
+    "ISO3": "FRO",
+    "Country": "Faroe Islands",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 0.0059,
+        "manufacturing": 5.2054,
+        "total": 0.0198
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 10.0059,
+        "manufacturing": 24.0406,
+        "total": 10.0303
+      }
+    },
+    "code": "234"
+  },
+  {
+    "ISO3": "FSM",
+    "Country": "Micronesia (Federated States of)",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 0.9013,
+        "total": 0.6199
+      },
+      "now": {
+        "fuels_mining": 10,
+        "agriculture": 9.028,
+        "manufacturing": 11.6843,
+        "total": 9.1216
+      }
+    },
+    "code": "583"
+  },
+  {
+    "ISO3": "GAB",
+    "Country": "Gabon",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.065,
+        "agriculture": 0.0682,
+        "manufacturing": 5.5873,
+        "total": 0.8374
+      },
+      "now": {
+        "fuels_mining": 0.0817,
+        "agriculture": 1.0312,
+        "manufacturing": 14.6938,
+        "total": 2.1426
+      }
+    },
+    "code": "266"
+  },
+  {
+    "ISO3": "GBR",
+    "Country": "United Kingdom",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.449,
+        "agriculture": 1.6428,
+        "manufacturing": 0.9206,
+        "total": 0.8478
+      },
+      "now": {
+        "fuels_mining": 2.8456,
+        "agriculture": 11.6418,
+        "manufacturing": 10.9259,
+        "total": 9.5164
+      }
+    },
+    "code": "826"
+  },
+  {
+    "ISO3": "GEO",
+    "Country": "Georgia",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 1.1554,
+        "manufacturing": 5.8357,
+        "total": 4.859
+      },
+      "now": {
+        "fuels_mining": 0.0055,
+        "agriculture": 11.1554,
+        "manufacturing": 9.7775,
+        "total": 9.2315
+      }
+    },
+    "code": "268"
+  },
+  {
+    "ISO3": "GHA",
+    "Country": "Ghana",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.0178,
+        "manufacturing": 0.0317,
+        "total": 0.0067
+      },
+      "now": {
+        "fuels_mining": 0.8626,
+        "agriculture": 13.8113,
+        "manufacturing": 33.4188,
+        "total": 6.2463
+      }
+    },
+    "code": "288"
+  },
+  {
+    "ISO3": "GIN",
+    "Country": "Guinea",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.0584,
+        "manufacturing": 2.2871,
+        "total": 0.5874
+      },
+      "now": {
+        "fuels_mining": 7.1889,
+        "agriculture": 4.9012,
+        "manufacturing": 21.1992,
+        "total": 8.5539
+      }
+    },
+    "code": "324"
+  },
+  {
+    "ISO3": "GMB",
+    "Country": "Gambia",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 2.0791,
+        "total": 0.2005
+      },
+      "now": {
+        "fuels_mining": 9.6998,
+        "agriculture": 10.3241,
+        "manufacturing": 15.4486,
+        "total": 10.5176
+      }
+    },
+    "code": "270"
+  },
+  {
+    "ISO3": "GNB",
+    "Country": "Guinea-Bissau",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": null,
+        "manufacturing": 2.0133,
+        "total": 2.0133
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": null,
+        "manufacturing": 13.7774,
+        "total": 13.7774
+      }
+    },
+    "code": "624"
   },
   {
     "ISO3": "GNQ",
@@ -4456,12 +1190,6 @@
         "manufacturing": 0.1,
         "total": 0.0002
       },
-      "during": {
-        "fuels_mining": 0,
-        "agriculture": null,
-        "manufacturing": 10.1,
-        "total": 0.0225
-      },
       "now": {
         "fuels_mining": 0,
         "agriculture": null,
@@ -4470,6 +1198,1546 @@
       }
     },
     "code": "226"
+  },
+  {
+    "ISO3": "GRD",
+    "Country": "Grenada",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.0013,
+        "manufacturing": 0.631,
+        "total": 0.0128
+      },
+      "now": {
+        "fuels_mining": 4.4374,
+        "agriculture": 10.0013,
+        "manufacturing": 12.3362,
+        "total": 9.0559
+      }
+    },
+    "code": "308"
+  },
+  {
+    "ISO3": "GRL",
+    "Country": "Greenland",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.0022,
+        "manufacturing": 0.6476,
+        "total": 0.0092
+      },
+      "now": {
+        "fuels_mining": 10,
+        "agriculture": 10.0022,
+        "manufacturing": 12.002,
+        "total": 9.7737
+      }
+    },
+    "code": "304"
+  },
+  {
+    "ISO3": "GTM",
+    "Country": "Guatemala",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.0119,
+        "agriculture": 1.7918,
+        "manufacturing": 0.3205,
+        "total": 1.2015
+      },
+      "now": {
+        "fuels_mining": 2.7877,
+        "agriculture": 11.6906,
+        "manufacturing": 10.8923,
+        "total": 11.143
+      }
+    },
+    "code": "320"
+  },
+  {
+    "ISO3": "GUY",
+    "Country": "Guyana",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.0158,
+        "manufacturing": 3.2873,
+        "total": 0.0043
+      },
+      "now": {
+        "fuels_mining": 0.0129,
+        "agriculture": 14.0626,
+        "manufacturing": 26.4196,
+        "total": 0.1831
+      }
+    },
+    "code": "328"
+  },
+  {
+    "ISO3": "HKG",
+    "Country": "China, Hong Kong SAR",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.231,
+        "agriculture": 1.7821,
+        "manufacturing": 2.3324,
+        "total": 1.0967
+      },
+      "now": {
+        "fuels_mining": 28.7019,
+        "agriculture": 31.7772,
+        "manufacturing": 28.1206,
+        "total": 15.593
+      }
+    },
+    "code": "344"
+  },
+  {
+    "ISO3": "HND",
+    "Country": "Honduras",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 1.525,
+        "agriculture": 0.8914,
+        "manufacturing": 0.2362,
+        "total": 0.4818
+      },
+      "now": {
+        "fuels_mining": 10.099,
+        "agriculture": 10.8899,
+        "manufacturing": 14.9478,
+        "total": 13.4933
+      }
+    },
+    "code": "340"
+  },
+  {
+    "ISO3": "HTI",
+    "Country": "Haiti",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.0483,
+        "manufacturing": 0.2376,
+        "total": 0.2325
+      },
+      "now": {
+        "fuels_mining": 2.8533,
+        "agriculture": 10.0334,
+        "manufacturing": 10.286,
+        "total": 10.2201
+      }
+    },
+    "code": "332"
+  },
+  {
+    "ISO3": "IDN",
+    "Country": "Indonesia",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 4.4094,
+        "agriculture": 0.4337,
+        "manufacturing": 7.5926,
+        "total": 5.921
+      },
+      "now": {
+        "fuels_mining": 21.9494,
+        "agriculture": 17.1101,
+        "manufacturing": 27.6195,
+        "total": 25.0718
+      }
+    },
+    "code": "360"
+  },
+  {
+    "ISO3": "IND",
+    "Country": "India",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.5487,
+        "agriculture": 1.0848,
+        "manufacturing": 3.9844,
+        "total": 3.2762
+      },
+      "now": {
+        "fuels_mining": 36.5812,
+        "agriculture": 51.0101,
+        "manufacturing": 33.706,
+        "total": 34.954
+      }
+    },
+    "code": "356"
+  },
+  {
+    "ISO3": "IRN",
+    "Country": "Iran (Islamic Republic of)",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 0,
+        "manufacturing": 0.0011,
+        "total": 0.0009
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 10,
+        "manufacturing": 9.2825,
+        "total": 9.4189
+      }
+    },
+    "code": "364"
+  },
+  {
+    "ISO3": "IRQ",
+    "Country": "Iraq",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.1088,
+        "agriculture": 4.89,
+        "manufacturing": 0.2951,
+        "total": 0.1101
+      },
+      "now": {
+        "fuels_mining": 0.1088,
+        "agriculture": 39.89,
+        "manufacturing": 34.6704,
+        "total": 0.1952
+      }
+    },
+    "code": "368"
+  },
+  {
+    "ISO3": "ISL",
+    "Country": "Iceland",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.1149,
+        "agriculture": 0.3341,
+        "manufacturing": 0.1869,
+        "total": 0.2437
+      },
+      "now": {
+        "fuels_mining": 15.4545,
+        "agriculture": 15.3341,
+        "manufacturing": 8.4324,
+        "total": 11.152
+      }
+    },
+    "code": "352"
+  },
+  {
+    "ISO3": "ISR",
+    "Country": "Israel",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.0139,
+        "agriculture": 0.0009,
+        "manufacturing": 0.5962,
+        "total": 0.4417
+      },
+      "now": {
+        "fuels_mining": 14.0708,
+        "agriculture": 15.0009,
+        "manufacturing": 10.0412,
+        "total": 10.5893
+      }
+    },
+    "code": "376"
+  },
+  {
+    "ISO3": "JAM",
+    "Country": "Jamaica",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.5846,
+        "manufacturing": 0.2483,
+        "total": 0.3529
+      },
+      "now": {
+        "fuels_mining": 1.1195,
+        "agriculture": 10.5846,
+        "manufacturing": 11.1515,
+        "total": 7.3172
+      }
+    },
+    "code": "388"
+  },
+  {
+    "ISO3": "JOR",
+    "Country": "Jordan",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 9.5478,
+        "agriculture": 0.2797,
+        "manufacturing": 0.0282,
+        "total": 0.0395
+      },
+      "now": {
+        "fuels_mining": 48.3745,
+        "agriculture": 15.2797,
+        "manufacturing": 15.7362,
+        "total": 15.4542
+      }
+    },
+    "code": "400"
+  },
+  {
+    "ISO3": "JPN",
+    "Country": "Japan",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 4.2425,
+        "agriculture": 2.277,
+        "manufacturing": 1.796,
+        "total": 1.8022
+      },
+      "now": {
+        "fuels_mining": 14.3233,
+        "agriculture": 15.3137,
+        "manufacturing": 19.9132,
+        "total": 19.447
+      }
+    },
+    "code": "392"
+  },
+  {
+    "ISO3": "KAZ",
+    "Country": "Kazakhstan",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.7248,
+        "agriculture": 0.0998,
+        "manufacturing": 1.147,
+        "total": 0.8486
+      },
+      "now": {
+        "fuels_mining": 0.9717,
+        "agriculture": 25.0998,
+        "manufacturing": 4.5632,
+        "total": 2.2538
+      }
+    },
+    "code": "398"
+  },
+  {
+    "ISO3": "KEN",
+    "Country": "Kenya",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.0344,
+        "manufacturing": 0.1765,
+        "total": 0.1417
+      },
+      "now": {
+        "fuels_mining": 0.9022,
+        "agriculture": 11.0125,
+        "manufacturing": 33.3785,
+        "total": 27.5691
+      }
+    },
+    "code": "404"
+  },
+  {
+    "ISO3": "KGZ",
+    "Country": "Kyrgyzstan",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 3.0793,
+        "manufacturing": 3.5801,
+        "total": 3.4871
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 13.0793,
+        "manufacturing": 22.4419,
+        "total": 21.3067
+      }
+    },
+    "code": "417"
+  },
+  {
+    "ISO3": "KHM",
+    "Country": "Cambodia",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.0061,
+        "agriculture": 0.17,
+        "manufacturing": 10.0972,
+        "total": 9.8783
+      },
+      "now": {
+        "fuels_mining": 19.0061,
+        "agriculture": 18.1603,
+        "manufacturing": 30.5186,
+        "total": 30.2081
+      }
+    },
+    "code": "116"
+  },
+  {
+    "ISO3": "KIR",
+    "Country": "Kiribati",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 0,
+        "manufacturing": 1.9994,
+        "total": 0.2779
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 10,
+        "manufacturing": 20.0521,
+        "total": 11.106
+      }
+    },
+    "code": "296"
+  },
+  {
+    "ISO3": "KNA",
+    "Country": "Saint Kitts and Nevis",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 0.4913,
+        "total": 0.3564
+      },
+      "now": {
+        "fuels_mining": 7.3934,
+        "agriculture": 10,
+        "manufacturing": 21.2774,
+        "total": 16.1184
+      }
+    },
+    "code": "659"
+  },
+  {
+    "ISO3": "KOR",
+    "Country": "Korea, Republic of",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 1.1186,
+        "agriculture": 0.0032,
+        "manufacturing": 0.5747,
+        "total": 0.5883
+      },
+      "now": {
+        "fuels_mining": 10.1467,
+        "agriculture": 14.9971,
+        "manufacturing": 22.745,
+        "total": 21.6455
+      }
+    },
+    "code": "410"
+  },
+  {
+    "ISO3": "KWT",
+    "Country": "Kuwait",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.0973,
+        "agriculture": 9.7702,
+        "manufacturing": 1.4019,
+        "total": 0.1097
+      },
+      "now": {
+        "fuels_mining": 0.183,
+        "agriculture": 19.7702,
+        "manufacturing": 12.9628,
+        "total": 0.2566
+      }
+    },
+    "code": "414"
+  },
+  {
+    "ISO3": "LAO",
+    "Country": "Lao People's Dem. Rep.",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.7804,
+        "agriculture": 1.9958,
+        "manufacturing": 1.8112,
+        "total": 1.7788
+      },
+      "now": {
+        "fuels_mining": 4.286,
+        "agriculture": 21.1991,
+        "manufacturing": 39.0755,
+        "total": 37.9397
+      }
+    },
+    "code": "418"
+  },
+  {
+    "ISO3": "LBN",
+    "Country": "Lebanon",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.3393,
+        "agriculture": 4.886,
+        "manufacturing": 3.5785,
+        "total": 3.8606
+      },
+      "now": {
+        "fuels_mining": 7.8013,
+        "agriculture": 14.886,
+        "manufacturing": 15.0056,
+        "total": 14.7229
+      }
+    },
+    "code": "422"
+  },
+  {
+    "ISO3": "LBR",
+    "Country": "Liberia",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 0.3258,
+        "total": 0.0038
+      },
+      "now": {
+        "fuels_mining": 9.1856,
+        "agriculture": 0.1528,
+        "manufacturing": 16.1132,
+        "total": 1.2813
+      }
+    },
+    "code": "430"
+  },
+  {
+    "ISO3": "LBY",
+    "Country": "Libya",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.1197,
+        "agriculture": 0,
+        "manufacturing": 0.0324,
+        "total": 0.1196
+      },
+      "now": {
+        "fuels_mining": 0.1197,
+        "agriculture": 30,
+        "manufacturing": 27.2529,
+        "total": 0.1434
+      }
+    },
+    "code": "434"
+  },
+  {
+    "ISO3": "LCA",
+    "Country": "Saint Lucia",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.2866,
+        "manufacturing": 1.6722,
+        "total": 0.271
+      },
+      "now": {
+        "fuels_mining": 4.3072,
+        "agriculture": 10.2866,
+        "manufacturing": 16.6282,
+        "total": 6.6353
+      }
+    },
+    "code": "662"
+  },
+  {
+    "ISO3": "LKA",
+    "Country": "Sri Lanka",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.1805,
+        "agriculture": 0.9964,
+        "manufacturing": 12.9965,
+        "total": 10.7945
+      },
+      "now": {
+        "fuels_mining": 20.3926,
+        "agriculture": 20.772,
+        "manufacturing": 34.057,
+        "total": 31.5986
+      }
+    },
+    "code": "144"
+  },
+  {
+    "ISO3": "LSO",
+    "Country": "Lesotho",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 0.0001,
+        "total": 0.0001
+      },
+      "now": {
+        "fuels_mining": 15,
+        "agriculture": 15,
+        "manufacturing": 40.7194,
+        "total": 31.6678
+      }
+    },
+    "code": "426"
+  },
+  {
+    "ISO3": "MAC",
+    "Country": "China, Macao SAR",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.3996,
+        "manufacturing": 10.8833,
+        "total": 7.6804
+      },
+      "now": {
+        "fuels_mining": 10,
+        "agriculture": 10.3996,
+        "manufacturing": 20.6839,
+        "total": 14.7865
+      }
+    },
+    "code": "446"
+  },
+  {
+    "ISO3": "MAR",
+    "Country": "Morocco",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.0197,
+        "manufacturing": 0.9102,
+        "total": 0.6751
+      },
+      "now": {
+        "fuels_mining": 0.8327,
+        "agriculture": 10.0196,
+        "manufacturing": 13.4649,
+        "total": 12.1635
+      }
+    },
+    "code": "504"
+  },
+  {
+    "ISO3": "MDA",
+    "Country": "Moldova, Republic of",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 3.8813,
+        "manufacturing": 6.5431,
+        "total": 4.9428
+      },
+      "now": {
+        "fuels_mining": 25,
+        "agriculture": 28.8813,
+        "manufacturing": 31.4923,
+        "total": 29.8782
+      }
+    },
+    "code": "498"
+  },
+  {
+    "ISO3": "MDG",
+    "Country": "Madagascar",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 0.0553,
+        "total": 0.0295
+      },
+      "now": {
+        "fuels_mining": 4.1637,
+        "agriculture": 15.4227,
+        "manufacturing": 36.308,
+        "total": 23.1787
+      }
+    },
+    "code": "450"
+  },
+  {
+    "ISO3": "MDV",
+    "Country": "Maldives",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 0.8771,
+        "manufacturing": 2.6452,
+        "total": 0.8444
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 10.8771,
+        "manufacturing": 22.2548,
+        "total": 9.9727
+      }
+    },
+    "code": "462"
+  },
+  {
+    "ISO3": "MEX",
+    "Country": "Mexico",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.7023,
+        "manufacturing": 0,
+        "total": 0.07
+      },
+      "now": {
+        "fuels_mining": 4.2741,
+        "agriculture": 3.92,
+        "manufacturing": 23.0287,
+        "total": 19.7522
+      }
+    },
+    "code": "484"
+  },
+  {
+    "ISO3": "MHL",
+    "Country": "Marshall Islands",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 2.0102,
+        "total": 0.0942
+      },
+      "now": {
+        "fuels_mining": 0,
+        "agriculture": 10,
+        "manufacturing": 17.3768,
+        "total": 10.0052
+      }
+    },
+    "code": "584"
+  },
+  {
+    "ISO3": "MKD",
+    "Country": "North Macedonia",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 2.368,
+        "manufacturing": 2.7032,
+        "total": 2.6281
+      },
+      "now": {
+        "fuels_mining": 15,
+        "agriculture": 17.368,
+        "manufacturing": 37.656,
+        "total": 33.3779
+      }
+    },
+    "code": "807"
+  },
+  {
+    "ISO3": "MLI",
+    "Country": "Mali",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 0.0862,
+        "manufacturing": 2.8639,
+        "total": 1.05
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 10.0862,
+        "manufacturing": 17.7511,
+        "total": 11.8696
+      }
+    },
+    "code": "466"
+  },
+  {
+    "ISO3": "MMR",
+    "Country": "Myanmar",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.006,
+        "agriculture": 0.2853,
+        "manufacturing": 11.1821,
+        "total": 10.1323
+      },
+      "now": {
+        "fuels_mining": 33.6046,
+        "agriculture": 40.0637,
+        "manufacturing": 50.6607,
+        "total": 49.4837
+      }
+    },
+    "code": "104"
+  },
+  {
+    "ISO3": "MNE",
+    "Country": "Montenegro",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 0.1674,
+        "manufacturing": 1.3012,
+        "total": 0.7848
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 10.1674,
+        "manufacturing": 14.4326,
+        "total": 11.2795
+      }
+    },
+    "code": "499"
+  },
+  {
+    "ISO3": "MNG",
+    "Country": "Mongolia",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.4509,
+        "agriculture": 0.242,
+        "manufacturing": 6.1627,
+        "total": 2.0257
+      },
+      "now": {
+        "fuels_mining": 0.5275,
+        "agriculture": 10.242,
+        "manufacturing": 23.9918,
+        "total": 13.0281
+      }
+    },
+    "code": "496"
+  },
+  {
+    "ISO3": "MOZ",
+    "Country": "Mozambique",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.0037,
+        "agriculture": 8.0914,
+        "manufacturing": 3.2802,
+        "total": 1.2671
+      },
+      "now": {
+        "fuels_mining": 10.4492,
+        "agriculture": 25.0518,
+        "manufacturing": 26.2248,
+        "total": 12.8348
+      }
+    },
+    "code": "508"
+  },
+  {
+    "ISO3": "MRT",
+    "Country": "Mauritania",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 0,
+        "manufacturing": 1.4793,
+        "total": 0.9816
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 10,
+        "manufacturing": 12.8783,
+        "total": 11.7815
+      }
+    },
+    "code": "478"
+  },
+  {
+    "ISO3": "MUS",
+    "Country": "Mauritius",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.019,
+        "manufacturing": 0.0342,
+        "total": 0.0216
+      },
+      "now": {
+        "fuels_mining": 14.9402,
+        "agriculture": 15.4993,
+        "manufacturing": 27.01,
+        "total": 18.6703
+      }
+    },
+    "code": "480"
+  },
+  {
+    "ISO3": "MWI",
+    "Country": "Malawi",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 0.324,
+        "total": 0.003
+      },
+      "now": {
+        "fuels_mining": 15,
+        "agriculture": 17.5953,
+        "manufacturing": 18.0941,
+        "total": 17.5942
+      }
+    },
+    "code": "454"
+  },
+  {
+    "ISO3": "MYS",
+    "Country": "Malaysia",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 4.4011,
+        "agriculture": 1.86,
+        "manufacturing": 1.0294,
+        "total": 1.0511
+      },
+      "now": {
+        "fuels_mining": 35.9958,
+        "agriculture": 19.3429,
+        "manufacturing": 12.8932,
+        "total": 12.9391
+      }
+    },
+    "code": "458"
+  },
+  {
+    "ISO3": "NAM",
+    "Country": "Namibia",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 0.1206,
+        "total": 0.0088
+      },
+      "now": {
+        "fuels_mining": 10.0424,
+        "agriculture": 15.0006,
+        "manufacturing": 18.2736,
+        "total": 10.7051
+      }
+    },
+    "code": "516"
+  },
+  {
+    "ISO3": "NER",
+    "Country": "Niger",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 1.9198,
+        "total": 0.8662
+      },
+      "now": {
+        "fuels_mining": 2.4756,
+        "agriculture": 10,
+        "manufacturing": 18.3264,
+        "total": 9.3558
+      }
+    },
+    "code": "562"
+  },
+  {
+    "ISO3": "NGA",
+    "Country": "Nigeria",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.1588,
+        "manufacturing": 0.0125,
+        "total": 0.0041
+      },
+      "now": {
+        "fuels_mining": 0.394,
+        "agriculture": 14.3013,
+        "manufacturing": 15.5194,
+        "total": 1.2141
+      }
+    },
+    "code": "566"
+  },
+  {
+    "ISO3": "NIC",
+    "Country": "Nicaragua",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.8512,
+        "manufacturing": 0.0034,
+        "total": 0.2475
+      },
+      "now": {
+        "fuels_mining": 0.0266,
+        "agriculture": 18.8491,
+        "manufacturing": 19.8602,
+        "total": 17.1026
+      }
+    },
+    "code": "558"
+  },
+  {
+    "ISO3": "NIU",
+    "Country": "Niue",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": null,
+        "manufacturing": 0.1423,
+        "total": 0.1147
+      },
+      "now": {
+        "fuels_mining": 10,
+        "agriculture": null,
+        "manufacturing": 10.1844,
+        "total": 8.3224
+      }
+    },
+    "code": "570"
+  },
+  {
+    "ISO3": "NOR",
+    "Country": "Norway",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.583,
+        "agriculture": 0.2291,
+        "manufacturing": 1.8908,
+        "total": 0.9628
+      },
+      "now": {
+        "fuels_mining": 1.7319,
+        "agriculture": 15.226,
+        "manufacturing": 16.9499,
+        "total": 10.6561
+      }
+    },
+    "code": "578"
+  },
+  {
+    "ISO3": "NPL",
+    "Country": "Nepal",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 0.5077,
+        "manufacturing": 2.2608,
+        "total": 1.8828
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 10.5069,
+        "manufacturing": 12.3793,
+        "total": 11.9405
+      }
+    },
+    "code": "524"
+  },
+  {
+    "ISO3": "NRU",
+    "Country": "Nauru",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": null,
+        "manufacturing": 2.4152,
+        "total": 2.4152
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": null,
+        "manufacturing": 28.6699,
+        "total": 28.6699
+      }
+    },
+    "code": "520"
+  },
+  {
+    "ISO3": "NZL",
+    "Country": "New Zealand",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 2.4129,
+        "agriculture": 1.3212,
+        "manufacturing": 2.0604,
+        "total": 1.4879
+      },
+      "now": {
+        "fuels_mining": 13.0816,
+        "agriculture": 16.0691,
+        "manufacturing": 21.6797,
+        "total": 16.9832
+      }
+    },
+    "code": "554"
+  },
+  {
+    "ISO3": "OMN",
+    "Country": "Oman",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 7.9407,
+        "agriculture": 0.0346,
+        "manufacturing": 4.5286,
+        "total": 4.8517
+      },
+      "now": {
+        "fuels_mining": 39.7146,
+        "agriculture": 10.0346,
+        "manufacturing": 18.2405,
+        "total": 21.3358
+      }
+    },
+    "code": "512"
+  },
+  {
+    "ISO3": "PAK",
+    "Country": "Pakistan",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.1186,
+        "agriculture": 1.3703,
+        "manufacturing": 10.7277,
+        "total": 9.9665
+      },
+      "now": {
+        "fuels_mining": 10.6814,
+        "agriculture": 20.3703,
+        "manufacturing": 30.0661,
+        "total": 29.0655
+      }
+    },
+    "code": "586"
+  },
+  {
+    "ISO3": "PAN",
+    "Country": "Panama",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 1.2055,
+        "manufacturing": 0.4359,
+        "total": 0.4928
+      },
+      "now": {
+        "fuels_mining": 5.9746,
+        "agriculture": 11.2053,
+        "manufacturing": 8.2508,
+        "total": 6.488
+      }
+    },
+    "code": "591"
+  },
+  {
+    "ISO3": "PER",
+    "Country": "Peru",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.1335,
+        "manufacturing": 0.3619,
+        "total": 0.1307
+      },
+      "now": {
+        "fuels_mining": 5.6913,
+        "agriculture": 10.1303,
+        "manufacturing": 11.2944,
+        "total": 8.8873
+      }
+    },
+    "code": "604"
+  },
+  {
+    "ISO3": "PHL",
+    "Country": "Philippines",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.326,
+        "agriculture": 0.9172,
+        "manufacturing": 2.1885,
+        "total": 1.9972
+      },
+      "now": {
+        "fuels_mining": 12.5235,
+        "agriculture": 19.8109,
+        "manufacturing": 18.3211,
+        "total": 17.9661
+      }
+    },
+    "code": "608"
+  },
+  {
+    "ISO3": "PLW",
+    "Country": "Palau",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 0,
+        "manufacturing": 0.0116,
+        "total": 0.0048
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 8.9316,
+        "manufacturing": 14.818,
+        "total": 8.264
+      }
+    },
+    "code": "585"
+  },
+  {
+    "ISO3": "PNG",
+    "Country": "Papua New Guinea",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.0085,
+        "manufacturing": 0.2297,
+        "total": 0.0262
+      },
+      "now": {
+        "fuels_mining": 0,
+        "agriculture": 14.9987,
+        "manufacturing": 14.6617,
+        "total": 14.649
+      }
+    },
+    "code": "598"
+  },
+  {
+    "ISO3": "PRY",
+    "Country": "Paraguay",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.0039,
+        "agriculture": 8.0394,
+        "manufacturing": 5.0915,
+        "total": 6.5693
+      },
+      "now": {
+        "fuels_mining": 0.7729,
+        "agriculture": 18.0297,
+        "manufacturing": 17.8089,
+        "total": 15.9484
+      }
+    },
+    "code": "600"
+  },
+  {
+    "ISO3": "PSE",
+    "Country": "State of Palestine",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 10,
+        "agriculture": 0,
+        "manufacturing": 0,
+        "total": 0.2604
+      },
+      "now": {
+        "fuels_mining": 50,
+        "agriculture": 10,
+        "manufacturing": 10.5334,
+        "total": 11.1111
+      }
+    },
+    "code": "275"
+  },
+  {
+    "ISO3": "QAT",
+    "Country": "Qatar",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 1.962,
+        "agriculture": 0,
+        "manufacturing": 0.4548,
+        "total": 1.2567
+      },
+      "now": {
+        "fuels_mining": 8.6296,
+        "agriculture": 10,
+        "manufacturing": 10.684,
+        "total": 7.4292
+      }
+    },
+    "code": "634"
+  },
+  {
+    "ISO3": "RWA",
+    "Country": "Rwanda",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 1.4387,
+        "total": 0.1202
+      },
+      "now": {
+        "fuels_mining": 0,
+        "agriculture": 10.0903,
+        "manufacturing": 17.003,
+        "total": 9.2647
+      }
+    },
+    "code": "646"
+  },
+  {
+    "ISO3": "SAU",
+    "Country": "Saudi Arabia",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.3797,
+        "agriculture": 0.8665,
+        "manufacturing": 0.8006,
+        "total": 0.436
+      },
+      "now": {
+        "fuels_mining": 0.666,
+        "agriculture": 10.8665,
+        "manufacturing": 11.4528,
+        "total": 2.2718
+      }
+    },
+    "code": "682"
+  },
+  {
+    "ISO3": "SDN",
+    "Country": "Sudan",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 0,
+        "manufacturing": 0,
+        "total": 0
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 10,
+        "manufacturing": 10,
+        "total": 10
+      }
+    },
+    "code": "729"
+  },
+  {
+    "ISO3": "SEN",
+    "Country": "Senegal",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.0011,
+        "manufacturing": 0.0683,
+        "total": 0.0221
+      },
+      "now": {
+        "fuels_mining": 1.05,
+        "agriculture": 23.4309,
+        "manufacturing": 10.9129,
+        "total": 9.5624
+      }
+    },
+    "code": "686"
+  },
+  {
+    "ISO3": "SGP",
+    "Country": "Singapore",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.0013,
+        "agriculture": 6.695,
+        "manufacturing": 0.2278,
+        "total": 0.6233
+      },
+      "now": {
+        "fuels_mining": 0.7079,
+        "agriculture": 16.6867,
+        "manufacturing": 4.4488,
+        "total": 4.6165
+      }
+    },
+    "code": "702"
+  },
+  {
+    "ISO3": "SLB",
+    "Country": "Solomon Islands",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 0.2193,
+        "manufacturing": 4.0286,
+        "total": 0.6145
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 8.1077,
+        "manufacturing": 18.6848,
+        "total": 7.919
+      }
+    },
+    "code": "090"
+  },
+  {
+    "ISO3": "SLE",
+    "Country": "Sierra Leone",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.0014,
+        "agriculture": 0,
+        "manufacturing": 1.4909,
+        "total": 0.3336
+      },
+      "now": {
+        "fuels_mining": 3.0248,
+        "agriculture": 10.5036,
+        "manufacturing": 24.8094,
+        "total": 9.2484
+      }
+    },
+    "code": "694"
+  },
+  {
+    "ISO3": "SLV",
+    "Country": "El Salvador",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 3.2184,
+        "agriculture": 8.0662,
+        "manufacturing": 0.1571,
+        "total": 1.6389
+      },
+      "now": {
+        "fuels_mining": 19.7856,
+        "agriculture": 18.0662,
+        "manufacturing": 11.1782,
+        "total": 11.689
+      }
+    },
+    "code": "222"
+  },
+  {
+    "ISO3": "SMR",
+    "Country": "San Marino",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 11.9226,
+        "agriculture": 6.933,
+        "manufacturing": 3.1346,
+        "total": 3.309
+      },
+      "now": {
+        "fuels_mining": 51.9226,
+        "agriculture": 16.933,
+        "manufacturing": 21.5113,
+        "total": 20.3851
+      }
+    },
+    "code": "674"
+  },
+  {
+    "ISO3": "SOM",
+    "Country": "Somalia",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.6264,
+        "manufacturing": 4.5068,
+        "total": 3.3416
+      },
+      "now": {
+        "fuels_mining": 10,
+        "agriculture": 10.6264,
+        "manufacturing": 23.7578,
+        "total": 19.7271
+      }
+    },
+    "code": "706"
   },
   {
     "ISO3": "SPM",
@@ -4482,12 +2750,6 @@
         "manufacturing": 0,
         "total": 0
       },
-      "during": {
-        "fuels_mining": null,
-        "agriculture": null,
-        "manufacturing": 10,
-        "total": 0.0166
-      },
       "now": {
         "fuels_mining": null,
         "agriculture": null,
@@ -4496,5 +2758,725 @@
       }
     },
     "code": "666"
+  },
+  {
+    "ISO3": "SRB",
+    "Country": "Serbia",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.8127,
+        "agriculture": 2.8328,
+        "manufacturing": 3.5331,
+        "total": 3.2906
+      },
+      "now": {
+        "fuels_mining": 26.1193,
+        "agriculture": 37.8328,
+        "manufacturing": 35.9192,
+        "total": 35.4372
+      }
+    },
+    "code": "688"
+  },
+  {
+    "ISO3": "SSD",
+    "Country": "South Sudan",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 0.0181,
+        "manufacturing": 0.1307,
+        "total": 0.047
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 10.0181,
+        "manufacturing": 9.2575,
+        "total": 9.7853
+      }
+    },
+    "code": "728"
+  },
+  {
+    "ISO3": "STP",
+    "Country": "Sao Tome and Principe",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 0.9183,
+        "total": 0.7615
+      },
+      "now": {
+        "fuels_mining": 2.3293,
+        "agriculture": 16,
+        "manufacturing": 13.8378,
+        "total": 13.9132
+      }
+    },
+    "code": "678"
+  },
+  {
+    "ISO3": "SUR",
+    "Country": "Suriname",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.006,
+        "manufacturing": 3.6728,
+        "total": 0.3108
+      },
+      "now": {
+        "fuels_mining": 8.6018,
+        "agriculture": 9.5276,
+        "manufacturing": 27.5873,
+        "total": 10.1797
+      }
+    },
+    "code": "740"
+  },
+  {
+    "ISO3": "SWZ",
+    "Country": "Eswatini",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 0,
+        "manufacturing": 0.6022,
+        "total": 0.1988
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 11.6155,
+        "manufacturing": 24.7171,
+        "total": 15.9212
+      }
+    },
+    "code": "748"
+  },
+  {
+    "ISO3": "SXM",
+    "Country": "Sint Maarten (Dutch part)",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 0.8626,
+        "total": 0.009
+      },
+      "now": {
+        "fuels_mining": 4.9584,
+        "agriculture": 10,
+        "manufacturing": 11.5227,
+        "total": 0.2036
+      }
+    },
+    "code": "534"
+  },
+  {
+    "ISO3": "SYC",
+    "Country": "Seychelles",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 1.9188,
+        "total": 0.8414
+      },
+      "now": {
+        "fuels_mining": 10,
+        "agriculture": 10,
+        "manufacturing": 15.8933,
+        "total": 12.2443
+      }
+    },
+    "code": "690"
+  },
+  {
+    "ISO3": "SYR",
+    "Country": "Syrian Arab Republic",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 2.7052,
+        "manufacturing": 1.3137,
+        "total": 1.9392
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 43.7052,
+        "manufacturing": 42.2171,
+        "total": 42.139
+      }
+    },
+    "code": "760"
+  },
+  {
+    "ISO3": "TCD",
+    "Country": "Chad",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 1.7469,
+        "total": 0.0028
+      },
+      "now": {
+        "fuels_mining": 0.1262,
+        "agriculture": 14.0507,
+        "manufacturing": 8.7544,
+        "total": 0.8508
+      }
+    },
+    "code": "148"
+  },
+  {
+    "ISO3": "TGO",
+    "Country": "Togo",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.0139,
+        "manufacturing": 0.0479,
+        "total": 0.0167
+      },
+      "now": {
+        "fuels_mining": 4.1,
+        "agriculture": 11.1186,
+        "manufacturing": 13.6984,
+        "total": 11.2863
+      }
+    },
+    "code": "768"
+  },
+  {
+    "ISO3": "THA",
+    "Country": "Thailand",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 4.0229,
+        "agriculture": 2.5221,
+        "manufacturing": 2.4208,
+        "total": 2.4448
+      },
+      "now": {
+        "fuels_mining": 35.2511,
+        "agriculture": 19.6206,
+        "manufacturing": 22.0826,
+        "total": 21.9783
+      }
+    },
+    "code": "764"
+  },
+  {
+    "ISO3": "TJK",
+    "Country": "Tajikistan",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.7678,
+        "manufacturing": 1.5163,
+        "total": 0.1484
+      },
+      "now": {
+        "fuels_mining": 0.7878,
+        "agriculture": 10.7678,
+        "manufacturing": 13.4169,
+        "total": 2.1408
+      }
+    },
+    "code": "762"
+  },
+  {
+    "ISO3": "TKM",
+    "Country": "Turkmenistan",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": null,
+        "manufacturing": 0.1191,
+        "total": 0.0951
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": null,
+        "manufacturing": 10.4469,
+        "total": 8.3425
+      }
+    },
+    "code": "795"
+  },
+  {
+    "ISO3": "TLS",
+    "Country": "Timor-Leste",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 0,
+        "manufacturing": 3.101,
+        "total": 0.5889
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 10,
+        "manufacturing": 12.9457,
+        "total": 10.5003
+      }
+    },
+    "code": "626"
+  },
+  {
+    "ISO3": "TON",
+    "Country": "Tonga",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 0.7252,
+        "manufacturing": 2.5473,
+        "total": 1.6476
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 9.6268,
+        "manufacturing": 18.4367,
+        "total": 13.8344
+      }
+    },
+    "code": "776"
+  },
+  {
+    "ISO3": "TTO",
+    "Country": "Trinidad and Tobago",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.0003,
+        "agriculture": 2.6891,
+        "manufacturing": 0.0063,
+        "total": 0.0529
+      },
+      "now": {
+        "fuels_mining": 0.0287,
+        "agriculture": 17.5743,
+        "manufacturing": 15.0301,
+        "total": 6.8654
+      }
+    },
+    "code": "780"
+  },
+  {
+    "ISO3": "TUN",
+    "Country": "Tunisia",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.5277,
+        "agriculture": 0.723,
+        "manufacturing": 4.4443,
+        "total": 2.6634
+      },
+      "now": {
+        "fuels_mining": 18.0482,
+        "agriculture": 25.723,
+        "manufacturing": 31.9191,
+        "total": 28.7791
+      }
+    },
+    "code": "788"
+  },
+  {
+    "ISO3": "TUR",
+    "Country": "Türkiye",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 1.9423,
+        "agriculture": 2.6732,
+        "manufacturing": 5.7092,
+        "total": 4.8344
+      },
+      "now": {
+        "fuels_mining": 8.3443,
+        "agriculture": 17.673,
+        "manufacturing": 27.0695,
+        "total": 23.4786
+      }
+    },
+    "code": "792"
+  },
+  {
+    "ISO3": "TUV",
+    "Country": "Tuvalu",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": null,
+        "manufacturing": 7.2922,
+        "total": 5.0486
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": null,
+        "manufacturing": 24.7659,
+        "total": 17.1461
+      }
+    },
+    "code": "798"
+  },
+  {
+    "ISO3": "TWN",
+    "Country": "China, Taiwan Province of",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 2.0114,
+        "agriculture": 2.4958,
+        "manufacturing": 2.1896,
+        "total": 2.1617
+      },
+      "now": {
+        "fuels_mining": 16.6932,
+        "agriculture": 22.4642,
+        "manufacturing": 16.6784,
+        "total": 16.5072
+      }
+    },
+    "code": "158"
+  },
+  {
+    "ISO3": "TZA",
+    "Country": "Tanzania, United Republic of",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 0.04,
+        "total": 0.0179
+      },
+      "now": {
+        "fuels_mining": 10.0072,
+        "agriculture": 10.7823,
+        "manufacturing": 32.9886,
+        "total": 20.0545
+      }
+    },
+    "code": "834"
+  },
+  {
+    "ISO3": "UGA",
+    "Country": "Uganda",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.0356,
+        "agriculture": 0.2174,
+        "manufacturing": 0.2609,
+        "total": 0.2133
+      },
+      "now": {
+        "fuels_mining": 14.8576,
+        "agriculture": 15.2174,
+        "manufacturing": 15.3197,
+        "total": 14.9526
+      }
+    },
+    "code": "800"
+  },
+  {
+    "ISO3": "UKR",
+    "Country": "Ukraine",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.0895,
+        "agriculture": 2.517,
+        "manufacturing": 0.9965,
+        "total": 1.2395
+      },
+      "now": {
+        "fuels_mining": 0.8236,
+        "agriculture": 12.517,
+        "manufacturing": 20.6456,
+        "total": 18.4444
+      }
+    },
+    "code": "804"
+  },
+  {
+    "ISO3": "URY",
+    "Country": "Uruguay",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.5207,
+        "agriculture": 9.5296,
+        "manufacturing": 3.1695,
+        "total": 8.566
+      },
+      "now": {
+        "fuels_mining": 5.4366,
+        "agriculture": 17.7379,
+        "manufacturing": 13.8863,
+        "total": 16.8228
+      }
+    },
+    "code": "858"
+  },
+  {
+    "ISO3": "UZB",
+    "Country": "Uzbekistan",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 5.3534,
+        "agriculture": 3.0265,
+        "manufacturing": 4.4571,
+        "total": 3.7636
+      },
+      "now": {
+        "fuels_mining": 29.4523,
+        "agriculture": 13.0265,
+        "manufacturing": 14.4536,
+        "total": 18.0928
+      }
+    },
+    "code": "860"
+  },
+  {
+    "ISO3": "VCT",
+    "Country": "Saint Vincent and the Grenadines",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0,
+        "manufacturing": 0.1836,
+        "total": 0.0183
+      },
+      "now": {
+        "fuels_mining": 8.7612,
+        "agriculture": 10,
+        "manufacturing": 10.8023,
+        "total": 7.0351
+      }
+    },
+    "code": "670"
+  },
+  {
+    "ISO3": "VEN",
+    "Country": "Venezuela (Bolivarian Rep. of)",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.0731,
+        "agriculture": 0.8207,
+        "manufacturing": 4.0212,
+        "total": 0.1548
+      },
+      "now": {
+        "fuels_mining": 0.0861,
+        "agriculture": 15.8207,
+        "manufacturing": 25.4113,
+        "total": 0.9348
+      }
+    },
+    "code": "862"
+  },
+  {
+    "ISO3": "VNM",
+    "Country": "Viet Nam",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 6.1686,
+        "agriculture": 0.9951,
+        "manufacturing": 4.5503,
+        "total": 4.3726
+      },
+      "now": {
+        "fuels_mining": 43.3929,
+        "agriculture": 20.7787,
+        "manufacturing": 23.7871,
+        "total": 23.4729
+      }
+    },
+    "code": "704"
+  },
+  {
+    "ISO3": "VUT",
+    "Country": "Vanuatu",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": 0.0087,
+        "manufacturing": 1.2441,
+        "total": 0.0365
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": 15.0087,
+        "manufacturing": 17.2838,
+        "total": 15.0599
+      }
+    },
+    "code": "548"
+  },
+  {
+    "ISO3": "WLF",
+    "Country": "Wallis and Futuna Islands",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": null,
+        "agriculture": null,
+        "manufacturing": 2.9218,
+        "total": 2.0645
+      },
+      "now": {
+        "fuels_mining": null,
+        "agriculture": null,
+        "manufacturing": 22.1571,
+        "total": 15.6555
+      }
+    },
+    "code": "876"
+  },
+  {
+    "ISO3": "WSM",
+    "Country": "Samoa",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 0.7024,
+        "manufacturing": 2.6084,
+        "total": 0.6874
+      },
+      "now": {
+        "fuels_mining": 10,
+        "agriculture": 10.7024,
+        "manufacturing": 19.5214,
+        "total": 9.273
+      }
+    },
+    "code": "882"
+  },
+  {
+    "ISO3": "XKX",
+    "Country": "Kosovo",
+    "dev_status": "Developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 1.956,
+        "manufacturing": 8.9403,
+        "total": 8.4463
+      },
+      "now": {
+        "fuels_mining": 10,
+        "agriculture": 11.956,
+        "manufacturing": 24.4512,
+        "total": 23.5452
+      }
+    },
+    "code": null
+  },
+  {
+    "ISO3": "YEM",
+    "Country": "Yemen",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 3.2271,
+        "manufacturing": 1.8827,
+        "total": 2.8993
+      },
+      "now": {
+        "fuels_mining": 10,
+        "agriculture": 13.2271,
+        "manufacturing": 18.4451,
+        "total": 14.3196
+      }
+    },
+    "code": "887"
+  },
+  {
+    "ISO3": "ZAF",
+    "Country": "South Africa",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.6839,
+        "agriculture": 0.2702,
+        "manufacturing": 0.7955,
+        "total": 0.7096
+      },
+      "now": {
+        "fuels_mining": 9.3857,
+        "agriculture": 33.5646,
+        "manufacturing": 18.2234,
+        "total": 14.7411
+      }
+    },
+    "code": "710"
+  },
+  {
+    "ISO3": "ZMB",
+    "Country": "Zambia",
+    "dev_status": "Least developed",
+    "data": {
+      "pre": {
+        "fuels_mining": 0,
+        "agriculture": 7.985,
+        "manufacturing": 0.083,
+        "total": 0.5813
+      },
+      "now": {
+        "fuels_mining": 12.5601,
+        "agriculture": 23.5966,
+        "manufacturing": 14.8281,
+        "total": 13.3283
+      }
+    },
+    "code": "894"
+  },
+  {
+    "ISO3": "ZWE",
+    "Country": "Zimbabwe",
+    "dev_status": "Developing",
+    "data": {
+      "pre": {
+        "fuels_mining": 0.1242,
+        "agriculture": 4.1739,
+        "manufacturing": 1.6302,
+        "total": 3.8977
+      },
+      "now": {
+        "fuels_mining": 15.1242,
+        "agriculture": 19.1739,
+        "manufacturing": 15.7596,
+        "total": 18.7659
+      }
+    },
+    "code": "716"
   }
 ]
