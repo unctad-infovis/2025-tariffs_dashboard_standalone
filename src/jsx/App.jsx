@@ -141,7 +141,7 @@ function App() {
             Explore our
             {' '}
             <br />
-            <strong>Tariff Tracker</strong>
+            <strong>Tariff tracker</strong>
           </div>
           <div className="qrcode"><img src="./assets/img/qrcode.png" alt="qrcode" /></div>
         </div>
