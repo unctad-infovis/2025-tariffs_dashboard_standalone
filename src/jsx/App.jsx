@@ -159,7 +159,7 @@ function App() {
               <div className="selection_container type_selection">
                 <div className="selector_container">
                   <button type="button" className="active" value="pre" onClick={(event) => changeType(event.currentTarget)}>
-                    <div className="title">Pre January 2025</div>
+                    <div className="title">Pre-January 2025</div>
                   </button>
                 </div>
                 {/* <div className="selector_container">
