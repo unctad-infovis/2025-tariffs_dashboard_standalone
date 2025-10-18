@@ -247,7 +247,7 @@ function ChartMap({
       },
       chart: {
         backgroundColor: 'transparent',
-        height: 690,
+        height: 700,
         spacing: 10,
         type: 'map'
       },
