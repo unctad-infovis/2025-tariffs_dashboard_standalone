@@ -247,7 +247,7 @@ function ChartMap({
       },
       chart: {
         backgroundColor: 'transparent',
-        height: 580,
+        height: 690,
         spacing: 10,
         type: 'map'
       },
@@ -271,8 +271,8 @@ function ChartMap({
       },
       mapNavigation: {
         buttonOptions: {
-          x: 10,
-          verticalAlign: 'bottom'
+          verticalAlign: 'bottom',
+          x: 10
         },
         enableButtons: true,
         enabled: false,
