@@ -399,6 +399,7 @@ function ChartMap({
             duration: 600,
             easing: 'easeOutQuad'
           },
+          clip: false,
           cursor: 'pointer',
           data: bubbleData,
           joinBy: null,
@@ -426,7 +427,6 @@ function ChartMap({
               }
             }
           },
-          clip: false,
           type: 'mapbubble',
           visible: true,
           zMax: maxValue,
