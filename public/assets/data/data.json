@@ -80,26 +80,6 @@
     "code": "008"
   },
   {
-    "ISO3": "AND",
-    "Country": "Andorra",
-    "dev_status": "Developed",
-    "data": {
-      "pre": {
-        "fuels_mining": 0,
-        "agriculture": 0,
-        "manufacturing": 1.6858,
-        "total": 1.5913
-      },
-      "now": {
-        "fuels_mining": 0,
-        "agriculture": 10,
-        "manufacturing": 12.1927,
-        "total": 11.5176
-      }
-    },
-    "code": "020"
-  },
-  {
     "ISO3": "ARE",
     "Country": "United Arab Emirates",
     "dev_status": "Developing",
